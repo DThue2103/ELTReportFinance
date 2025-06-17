@@ -1,0 +1,938 @@
+﻿id_group,company_name,stock_code
+1,ABBank (Ngân hàng TMCP An Bình),ABB
+1,ACB (Ngân hàng Á Châu),ACB
+1,Bac A Bank (Ngân hàng TMCP Bắc Á),BAB
+1,BIDV (Ngân hàng TMCP Đầu tư và Phát triển Việt Nam),BID
+1,BVBank (Ngân hàng Bản Việt),BVB
+1,Vietinbank (Ngân hàng TMCP Công thương Việt Nam),CTG
+1,Eximbank (Ngân hàng TMCP Xuất Nhập khẩu Việt Nam),EIB
+1,Eximbank (Ngân hàng TMCP Xuất Nhập Khẩu Việt Nam),EIB
+1,HD bank (Ngân hàng TMCP Phát triển Thành phố Hồ Chí Minh),HDB
+1,KienlongBank (Ngân hàng Kiên Long),KLB
+1,LPBank (Ngân hàng Bưu điện Liên Việt),LPB
+1,MB bank (Ngân hàng TMCP Quân đội),MBB
+1,MSB (Ngân hàng TMCP Hàng hải Việt Nam),MSB
+1,Nam A Bank (Ngân hàng TMCP Nam Á),NAB
+1,NCB (Ngân hàng TMCP Quốc dân),NVB
+1,OCB (Ngân hàng TMCP Phương Đông),OCB
+1,PGbank (Ngân hàng TMCP Xăng Dầu Petrolimex),PGB
+1,Saigon Bank (TMCP Sài Gòn Công thương),SGB
+1,SHB (Ngân hàng TMCP Sài Gòn - Hà Nội),SHB
+1,SeABank (Ngân hàng TMCP Đông Nam Á),SSB
+1,Sacombank (Ngân hàng TMCP Sài Gòn Thương Tín),STB
+1,Techcombank (Ngân hàng TMCP Kỹ Thương Việt Nam),TCB
+1,TPBank (Ngân hàng TMCP Tiên Phong),TPB
+1,VietABank (Ngân hàng TMCP Việt Á),VAB
+1,Vietbank (Ngân hàng TMCP Việt Nam Thương Tín),VBB
+1,Vietcombank (Ngân hàng TMCP Ngoại thương Việt Nam),VCB
+1,VIB (Ngân hàng TMCP Việt Nam Thịnh Vượng),VIB
+1,VPBank (Ngân hàng TMCP Việt Nam Thịnh Vượng),VIB
+2,CTCP chứng khoán Agribank - HOSE,AGR
+2,CTCP Chứng khoán APG,APG
+2,CTCP Chứng khoán Châu Á Thái Bình Dương - HNX,APS
+2,CTCP Chứng khoán BOS - HNX,ART
+2,CTCP Chứng khoán Ngân hàng Đầu tư và Phát triển Việt Nam - HOSE,BSI
+2,CTCP Chứng khoán Bảo Việt - HNX,BVS
+2,CTCP Chứng khoán Ngân hàng Công thương Việt Nam - HOSE,CTS
+2,CTCP Chứng khoán Everest - HNX,EVS
+2,CTCP Chứng khoán FPT - HOSE,FTS
+2,CTCP Chứng khoán Hòa Bình - HNX,HBS
+2,CTCP Chứng khoán Thành phố Hồ Chí Minh - HOSE,HCM
+2,CTCP Chứng khoán Đầu tư Việt Nam - HNX,IVS
+2,CTCP Chứng khoán MB - HNX,MBS
+2,CTCP Chứng khoán Dầu khí - HNX,PSI
+2,CTCP Chứng khoán Sài Gòn – Hà Nội - HNX,SHS
+2,CTCP Chứng khoán SSI - HOSE,SSI
+2,CTCP Chứng khoán Trí Việt,TVB
+2,CTCP Chứng khoán Thiên Việt - HOSE,TVS
+2,CTCP Chứng khoán Bản Việt - HOSE,VCI
+2,CTCP Chứng khoán Rồng Việt - HOSE,VDS
+2,CTCP Chứng khoán Thương mại và Công nghiệp Việt Nam - HNX,VIG
+2,CTCP Chứng khoán VIX - HOSE,VIX
+2,CTCP Chứng khoán VNDirect - HOSE,VND
+2,CTCP Chứng khoán Phố Wall - HNX,WSS
+3,CTCP Thủy Điện A Vương - UPCOM,AVC
+3,CTCP Thủy điện Bắc Hà - UPCOM,BHA
+3,CTCP Thủy điện Buôn Đôn - UPCOM,BSA
+3,CTCP Nhiệt điện Bà Rịa - HOSE,BTP
+3,CTCP Thủy điện miền Trung - HOSE,CHP
+3,CTCP Điện Cơ Hải Phòng - HNX,DHP
+3,CTCP Điện nước An Giang - UPCOM,DNA
+3,CTCP Thủy điện Đa Nhim – Hàm Thuận – Đa Mi - UPCOM,DNH
+3,CTCP Thủy điện – Điện lực 3 - HOSE,DRL
+3,CTCP Đầu tư Năng lượng Đại Trường Thành Holdings,DTE
+3,Tổng công ty Điện lực TKV – CTCP - HNX,DTK
+3,CTCP Thủy điện Điện lực Đắk Lắk - UPCOM,EAD
+3,CTCP Điện Bắc Nà - HNX,EBA
+3,CTCP EVN Quốc tế - UPCOM,EIC
+3,Tổng công ty Phát điện 2 – Công ty TNHH MTV - UPCOM,GE2
+3,CTCP Điện Gia Lai - HOSE,GEG
+3,CTCP Thủy điện Gia Lai - UPCOM,GHC
+3,CTCP Thủy điện Hương Sơn - UPCOM,GSM
+3,CTCP Thủy điện Nậm Mu - HNX,HJS
+3,CTCP Điện chiếu sáng Hải Phòng - UPCOM,HLE
+3,CTCP Thủy điện Hủa Na - UPCOM,HNA
+3,CTCP Nhiệt điện Hải Phòng - UPCOM,HND
+3,Công ty CTCP Thủy điện Đăk Đoa - UPCOM,HPD
+3,CTCP Thủy điện Srok Phu Miêng IDICO - UPCOM,ISH
+3,CTCP Điện lực Khánh Hòa - HOSE,KHP
+3,CTCP Nhiệt điện Ninh Bình - HNX,NBP
+3,CTCP Đầu tư và Phát triển Điện Miền Bắc 2 - UPCOM,ND2
+3,CTCP Đầu tư và Phát triển Điện Tây Bắc - UPCOM,NED
+3,CTCP Điện lực Dầu khí Nhơn Trạch 2 - HOSE,NT2
+3,CTCP thủy điện Nước Trong - HNX,NTH
+3,CTCP Tập đoàn PC1 - HOSE,PC1
+3,Tổng Công ty Phát điện 3 – CTCP - UPCOM,PGV
+3,CTCP Đầu tư Điện lực 3 - HNX,PIC
+3,Tổng Công ty Điện lực Dầu khí Việt Nam – CTCP - HOSE,POW
+3,CTCP Nhiệt điện Phả Lại - HOSE,PPC
+3,CTCP Thủy điện Quế Phong- UPCOM,QPH
+3,CTCP Nhiệt điện Quảng Ninh - UPCOM,QTP
+3,CTCP Thủy điện Sê San 4A - HOSE,S4A
+3,CTCP Sông Ba - HOSE,SBA
+3,CTCP Thủy điện Sông Ba Hạ - UPCOM,SBH
+3,CTCP Đầu tư Phát triển Bắc Minh - UPCOM,SBM
+3,CTCP Đầu tư và Phát triển Điện miền Trung - HNX,SEB
+3,CTCP Thủy điện Miền Nam - HOSE,SHP
+3,CTCP Thủy điện Cần Đơn - HOSE,SJD
+3,CTCP Thủy điện Sử Pán 2 - UPCOM,SP2
+3,CTCP Thủy điện Sông Vàng - UPCOM,SVH
+3,CTCP Thủy điện Thác Bà - HOSE,TBC
+3,Tổng Công ty Thiết bị Điện Đông Anh – CTCP - UPCOM,TBD
+3,CTCP Thủy điện Định Bình - UPCOM,TDB
+3,CTCP Đầu tư Điện Tây Nguyên - HOSE,TIC
+3,CTCP Thủy điện Thác Mơ - HOSE,TMP
+3,CTCP Đầu tư Xây dựng và Phát triển Trường Thành - HSX,TTA
+3,CTCP Đầu tư Năng lượng Trường Thịnh - HOSE,TTE
+3,CTCP Tư vấn Xây dựng Điện 2 - HOSE,TV2
+3,CTCP Xây dựng và Năng lượng VCP - HOSE,VCP
+3,Tổng CTCP Xây dựng điện Việt Nam - HOSE,VNE
+3,CTCP Phát triển Điện lực Việt Nam - HSX,VPD
+3,CTCP Thủy điện Vĩnh Sơn – Sông Hinh - HOSE,VSH
+4,CTCP Tập đoàn Dầu khí An Pha - HOSE,ASP
+4,CTCP Lọc Hóa dầu Bình Sơn - UPCOM,BSR
+4,CTCP CNG Việt Nam - HOSE,CNG
+4,Tổng Công ty Khí Việt Nam-CTCP - HOSE,GAS
+4,CTCP Vận tải Sản phẩm Khí Quốc tế,GSP
+4,CTCP Xăng dầu HFC - UPCOM,HFC
+4,CTCP Điện lực Dầu khí Nhơn Trạch 2 - HOSE,NT2
+4,Tổng Công ty Dầu Việt Nam – CTCP - UPCOM,OIL
+4,CTCP Điện lực Dầu khí Bắc Kạn - UPCOM,PBK
+4,CTCP Đầu tư và Phát triển Gas Đô Thị - HNX,PCG
+4,Công ty TNHH MTV Thương mại Dầu khí Đồng Tháp - UPCOM,PDT
+4,CTCP Vận tải dầu Phương Đông Việt - UPCOM,PDV
+4,Tổng Công ty Thương mại Kỹ thuật và Đầu tư – CTCP - UPCOM,PEG
+4,CTCP Thiết bị Xăng dầu Petrolimex - UPCOM,PEQ
+4,Tổng Công ty Gas Petrolimex-CTCP - HOSE,PGC
+4,CTCP Phân phối Khí thấp áp Dầu khí Việt Nam - HOSE,PGD
+4,CTCP Kinh doanh Khí Miền Nam - HNX,PGS
+4,CTCP Đầu tư Điện lực 3 - HNX,PIC
+4,CTCP Thương mại và Vận tải Petrolimex Hà Nội - HNX,PJC
+4,Tổng Công ty Hóa dầu Petrolimex – CTCP,PLC
+4,Tập đoàn Xăng dầu Việt Nam - HOSE,PLX
+4,CTCP Đầu tư và Sản xuất Petro Miền Trung - HOSE,PMG
+4,CTCP Xăng dầu Dầu khí Thái Bình - UPCOM,POB
+4,"CTCP Dịch vụ Lắp đặt, Vận hành và Bảo dưỡng Công trình Dầu khí biển PTSC - UPCOM",POS
+4,CTCP Xăng dầu Dầu khí Vũng Áng - UPCOM,POV
+4,Tổng Công ty Điện lực Dầu khí Việt Nam – CTCP - HOSE,POW
+4,CTCP Petro Times - HNX,PPT
+4,CTCP Xăng dầu Dầu khí Phú Yên - HNX,PPY
+4,CTCP Dịch vụ Dầu khí Quảng Ngãi PTSC - UPCOM,PQN
+4,CTCP Vận tải và Dịch vụ Petrolimex Sài Gòn - HNX,PSC
+4,CTCP Thương mại Đầu tư Dầu khí Nam Sông Hậu - HSX,PSH
+4,CTCP Cảng dịch vụ Dầu khí Tổng hợp PTSC Thanh Hóa - UPCOM,PSN
+4,CTCP Vận tải và Dịch vụ Petrolimex Hà Tây - UPCOM,PTH
+4,CTCP Vận tải và Dịch vụ Petrolimex Hải Phòng - HNX,PTS
+4,CTCP Vận tải Dầu khí Đông Dương - UPCOM,PTT
+4,CTCP Thương mại Dầu khí - UPCOM,PTV
+4,CTCP Vận tải và Dịch vụ Petrolimex Nghệ Tĩnh - UPCOM,PTX
+4,CTCP Bọc Ống Dầu khí Việt Nam - HNX,PVB
+4,Tổng Công ty Hóa chất và Dịch vụ Dầu khí – CTCP (PVChem),PVC
+4,Tổng CTCP Khoan và Dịch vụ Khoan Dầu khí - HOSE,PVD
+4,Tổng Công ty Tư vấn thiết kế Dầu khí - UPCOM,PVE
+4,CTCP Kinh doanh LPG Việt Nam - HNX,PVG
+4,CTCP Máy – Thiết bị Dầu khí - UPCOM,PVM
+4,CTCP Vận tải dầu khí Thái Bình Dương - UPCOM,PVP
+4,Tổng CTCP Dịch vụ Kỹ thuật Dầu khí Việt Nam - HNX,PVS
+4,Tổng CTCP Vận tải Dầu khí - HOSE,PVT
+4,CTCP Đầu tư và Phát triển Điện miền Trung - HNX,SEB
+4,CTCP Phát triển năng lượng Sơn Hà - HNX,SHE
+4,CTCP Đầu tư TDG GLOBAL - HSX,TDG
+4,CTCP Dịch vụ biển Tân Cảng - UPCOM,TOS
+4,CTCP Thương mại và Dịch vụ Dầu khí Vũng Tàu - UPCOM,VMG
+4,CTCP Vận tải Xăng dầu VITACO - HOSE,VTO
+5,CTCP Suất ăn Công nghiệp Atesco- UPCOM,ATS
+5,CTCP Du lịch & Thương mại Bằng Giang Cao Bằng- UPCOM,BCV
+5,CTCP Vận tải Dịch vụ LIên Ninh - UPCOM,BLN
+5,CTCP Dịch vụ Đô thị Bà Rịa- UPCOM,BRS
+5,CTCP Dịch vụ Bến Thành- UPCOM,BSC
+5,CTCP Xe khách Sài Gòn - UPCOM,BSG
+5,CTCP Dịch vụ Du lịch Bến Thành- UPCOM,BTV
+5,CTCP CMVIETNAM- HNX,CMS
+5,CTCP Phục vụ Mai táng Hải Phòng- UPCOM,CPH
+5,CTCP Gia Lai CTC,CTC
+5,CTCP Xe khách Hà Nội,CXH
+5,CTCP Tập đoàn Khách sạn Đông Á,DAH
+5,CTCP Xe lửa Dĩ An,DAR
+5,CTCP Đường bộ Hải Phòng,DBH
+5,CTCP Tập đoàn Năng lượng Tái tạo Việt Nam,DL1
+5,CTCP Du lịch Đắk Lắk,DLD
+5,CTCP Du lịch và Thương mại – Vinacomin,DLT
+5,CTCP Du lịch Đồng Nai,DNT
+5,CTCP Công viên nước Đầm Sen,DSN
+5,CTCP Dịch vụ Du lịch Phú Thọ,DSP
+5,CTCP Đầu tư Đức Trung - UPCOM,DTI
+5,CTCP Du Lịch và Xuất nhập khẩu Lạng Sơn,DXL
+5,CTCP Đầu tư – Thương mại – Dịch vụ Điện Lực,EIN
+5,CTCP Thuận Thảo - UPCOM,GTT
+5,CTCP Dịch vụ Ô tô Hàng Xanh,HAX
+5,CTCP Dịch vụ Giải trí Hà Nội,HES
+5,CTCP Hoàng Hà - HNX,HHG
+5,CTCP Xe điện Hà Nội,HNT
+5,CTCP Du lịch Dịch vụ Hội An,HOT
+5,CTCP Vận tải đường sắt Hà Nội - UPCOM,HRT
+5,Tổng Công ty Hàng không Việt Nam Vietnam Airlines,HVN
+5,CTCP Đầu tư Thương mại và Xuất nhập khẩu CFS - HNX,KLF
+5,CTCP Thương mại Kiên Giang - UPCOM,KTC
+5,CTCP Dịch vụ hàng không sân bay Đà Nẵng - HNX,MAS
+5,CTCP Dịch vụ Du lịch Mỹ Trà,MTC
+5,CTCP Môi trường và Dịch vụ Đô Thị Vĩnh Yên,MVY
+5,CTCP Bất động sản Du lịch Ninh Vân Bay,NVT
+5,CTCP Vận tải Newway - UPCOM,NWT
+5,CTCP Khách sạn và Dịch vụ OCH,OCH
+5,CTCP Dịch vụ Một Thế Giới - UPCOM,ONW
+5,CTCP Tập đoàn Pan,PAN
+5,CTCP Du lịch Dầu khí Phương Đông,PDC
+5,CTCP PGT Holdings - HNX,PGT
+5,CTCP QUốc tế Hoàng Gia - HOSE,RIC
+5,CTCP Dịch vụ hàng hóa Sài Gòn - HOSE,SCS
+5,CTCP Khách sạn Sài Gòn,SGH
+5,CTCP Sài Gòn Hỏa xa - UPCOM,SHX
+5,CTCP Tàu cao tốc Superdong – Kiên Giang,SKG
+5,CTCP Vận tải Đường sắt Sài Gòn - UPCOM,SRT
+5,CTCP Vận chuyển Sài Gòn Tourist - UPCOM,STT
+5,CTCP Cáp treo Núi Bà Tây Ninh,TCT
+5,CTCP Bến bãi Vận tải Sài Gòn - UPCOM,TPS
+5,CTCP Vận tải 1 Traco - UPCOM,TR1
+5,CTCP Du lịch Trường Sơn Coecco - UPCOM,TSD
+5,CTCP Du lịch Dịch vụ Hà Nội - UPCOM,TSJ
+5,CTCP Du lịch - Thương mại Tây Ninh - HNX,TTT
+5,CTCP Nhân lực và Thương mại Vinaconex,VCM
+5,CTCP Trung tâm Hội chợ Triển lãm Việt Nam,VEF
+5,CTCP Du lịch Quốc tế Vũng Tàu,VIR
+5,CTCP Hàng không Vietjet,VJC
+5,CTCP Du lịch Thành Thành Công,VNG
+5,CTCP Ánh Dương Việt Nam,VNS
+5,CTCP Du lịch Vietourist - UPCOM,VTD
+5,CTCP Du lịch Tỉnh Bà Rịa – Vũng Tàu - HOSE,VTG
+5,CTCP Vận tải và đưa đón thợ mỏ - Vinacomin - UPCOM,VTM
+5,CTCP Du lịch và tiếp thị giao thông vận tải Việt Nam - UPCOM,VTR
+6,CTCP Tiên Sơn Thanh Hóa,AAT
+6,CTCP Đầu tư Nhãn Hiệu Việt,ABR
+6,CTCP Đầu tư và Khoáng sản FLC STONE,AMD
+6,CTCP Dịch vụ Hàng không Taseco,AST
+6,CTCP Dịch vụ Bến Thành,BSC
+6,CTCP Thương mại – Dịch vụ Bến Thành - HSX,BTT
+6,CTCP Xuất nhập khẩu và đầu tư Chợ Lớn (Cholimex),CLX
+6,CTCP Thương nghiệp Cà Mau - HSX,CMV
+6,CTCP Vật tư – Xăng dầu,COM
+6,CTCP Phục vụ mai táng Hải Phòng,CPH
+6,CTCP City Auto - HSX,CTF
+6,CTCP Thế giới số - HSX,DGW
+6,CTCP Bán lẻ Kỹ thuật số FPT - HSX,FRT
+6,CTCP Petec Bình Định,GCB
+6,CTCP Dịch vụ Ô tô Hàng Xanh - HSX,HAX
+6,CTCP Sản xuất – Xuất nhập khẩu Thanh Hà,HFX
+6,CTCP Thương mại Hóc Môn,HTC
+6,CTCP Thương mại Hóc Môn - HNX,HTC
+6,CTCP Đầu tư Thương mại và Xuất nhập khẩu CFS,KLF
+6,CTCP Thương mại Kiên Giang,KTC
+6,CTCP Thương mại – Đầu tư Long Biên,LBC
+6,CTCP Landmark Holding,LMH
+6,CTCP Tập đoàn Masan - HSX,MSN
+6,CTCP Đầu tư Thế giới Di động - HSX,MWG
+6,Tổng CTCP Dịch vụ Tổng hợp Dầu khí,PET
+6,CTCP Xuất nhập khẩu Petrolimex,PIT
+6,CTCP PIV,PIV
+6,CTCP Thương mại Phú Nhuận,PNG
+6,CTCP Vàng bạc Đá quý Phú Nhuận - HSX,PNJ
+6,CTCP Dịch vụ Phân phối Tổng hợp Dầu khí,PSD
+6,CTCP Nhiên liệu Sài Gòn,SFC
+6,CTCP Đầu tư Phát triển Sài Gòn Co.op,SID
+6,CTCP Siêu Thanh,ST8
+6,CTCP Thương mại dịch vụ Tràng Thi,T12
+6,CTCP Xuất nhập khẩu Tổng hợp I Việt Nam,TH1
+6,CTCP Thanh Hoa – Sông Đà,THS
+6,CTCP Thương Mại Xuất Nhập Khẩu Thủ Đức,TMC
+6,CTCP Thương mại Xuất nhập khẩu Thủ Đức - HNX,TMC
+6,CTCP Phân phối Top One,TOP
+6,CTCP Thương mại và Đầu tư Vi na ta ba,VTJ
+6,CTCP Hàng tiêu dùng Masan - UPCOM,MCH
+7,CTCP Xây dựng 47 - HSX,C47
+7,CTCP Tập đoàn CIENCO4 - UPCOM,C4G
+7,CTCP Đầu tư Hạ tầng Kỹ thuật Thành phố Hồ Chí Minh - HSX,CII
+7,CTCP Xây dựng COTECCONS - HSX,CTD
+7,CTCP Đầu tư Phát triển Cường Thuận IDICO - HSX,CTI
+7,Tổng CTCP Công trình Viettel - HSX,CTR
+7,CTCP Tập đoàn Đạt Phương - HSX,DPG
+7,CTCP Tập đoàn Everland - HSX,EVG
+7,CTCP FECON - HSX,FCN
+7,Tổng CTCP G36 - UPCOM,G36
+7,CTCP Tập đoàn Xây dựng Hòa Bình - HSX,HBC
+7,CTCP Đầu tư Hạ tầng Giao thông Đèo Cả - HSX,HHV
+7,CTCP Hưng Thịnh Incons - HSX,HTN
+7,CTCP Xây lắp Thừa Thiên Huế - HSX,HUB
+7,CTCP Xây lắp Thừa Thiên Huế,HUB
+7,CTCP Tasco - HNX,HUT
+7,CTCP Licogi 16 - HSX,LCG
+7,CTCP Đầu tư MST - HNX,MST
+7,CTCP Tập đoàn đầu tư Din Capital - HNX,PDB
+7,CTCP Xây dựng FLC FAROS - HSX,ROS
+7,CTCP SCI - HNX,S99
+7,CTCP SCI E&C - HNX,SCI
+7,CTCP Xây dựng số 9 - HNX,VC9
+7,Tổng CTCP Xuất nhập khẩu và Xây dựng Việt Nam - HSX,VCG
+8,Cổ phiếu của CTCP Group Bắc Việt,BVG
+8,Cổ phiếu của CTCP Thép Đà Nẵng,DNS
+8,CTCP Thép DANA – Ý,DNY
+8,CTCP Đại Thiên Lộc,DTL
+8,CTCP Hữu Liên Á Châu,HLA
+8,CTCP Kim khí Thành phố Hồ Chí Minh – Vnstee,HMC
+8,Cổ phiếu thép Hòa Phát,HPG
+8,Cổ phiếu thép Hoa Sen,HSG
+8,CTCP gang thép Hà Nội,HSV
+8,CTCP Kim Khí KKC,KKC
+8,CTCP Kim Khí KKC,KKC
+8,CTCP Kim khí Miền Trung,KMT
+8,CTCP Thép Mê Lin,MEL
+8,CTCP Vật tư TKV,MTS
+8,Cổ phiếu thép Nam Kim,NKG
+8,Cổ phiếu Thép Pomina,POM
+8,Cổ phiếu S99 – CTCP,SCI
+8,CTCP Đầu tư Thương mại SMC,SMC
+8,Cổ phiếu của CTCP Chế tạo kết cấu Thép Vneco SSM,SSM
+8,CTCP Thép Thủ Đức,TDS
+8,Cổ phiếu gang thép Thái Nguyên,TIS
+8,Cổ phiếu thép Tiến Lên,TLH
+8,CTCP Thép Nhà Bè – VNSTEEL,TNB
+8,Cổ phiếu của CTCP Thép tấm lá Thống Nhất,TNS
+8,CTCP Cán Thép Thái Trung,TTS
+8,Cổ phiếu tổng công ty thép Việt Nam,TVN
+8,CTCP Thép VICASA – VNSTEEL,VCA
+8,Cổ phiếu của CTCP Lưới thép Bình Tây,VDT
+8,CTCP Đầu tư và Xây dựng Điện Mêca Vneco,VES
+8,Cổ phiếu thép Việt Đức,VGS
+8,CTCP Ống thép Việt Đức VG PIPE,VGS
+8,Cổ phiếu thép Việt Ý,VIS
+9,Tổng Công ty Cảng Hàng không Việt Nam - UPCOM,ACV
+9,CTCP Xuất nhập khẩu Hàng không,ARM
+9,ctcp Dịch vụ Bưu chính Interserco - IPX,ASG
+9,CTCP Dịch vụ Hàng không Taseco,AST
+9,CTCP Dịch vụ Sân bay Quốc tế Cam Ranh,CIA
+9,Tổng Công ty Hàng không Việt Nam - HOSE,HVN
+9,CTCP Dịch vụ Hàng không Sân bay Đà Nẵng - HNX,MAS
+9,CTCP Dịch vụ Hàng không Sân bay Nội Bài - UPCOM,NAS
+9,CTCP Suất ăn Hàng không Nội Bài - UPCOM,NCS
+9,CTCP Dịch vụ Hàng hóa Nội Bài - HOSE,NCT
+9,CTCP Dịch vụ Hàng không Sân bay Tân Sơn Nhất - UPCOM,SAS
+9,CTCP Dịch vụ Hàng hóa Sài Gòn,SCS
+9,CTCP Phục vụ Mặt đất Sài Gòn - HOSE,SGN
+9,CTCP Hàng không Vietjet - HOSE,VJC
+10,CTCP Sản xuất Kinh doanh Dược và Trang thiết bị Y tế Việt Mỹ,AMV
+10,Công Ty Cp Dược Enlie,BCP
+10,CTCP Thiết kế Công Nghiệp Hóa chất,CEC
+10,CTCP Thuốc sát trùng Cần Thơ,CPC
+10,CTCP Dược – Trang thiết bị Y tế Bình Định,DBD
+10,CTCP Dược – Vật tư Y Tế Đăk Lăk,DBM
+10,CTCP Dược phẩm Bến Tre,DBT
+10,CTCP Công nghiệp Hóa chất Đà Nẵng,DCI
+10,CTCP Dược phẩm Cửu Long,DCL
+10,CTCP Dược và Thiết bị Y tế Đà Nẵng,DDN
+10,CTCP Dược Vật tư Y tế Hải Dương,DHD
+10,CTCP Dược Hậu Giang,DHG
+10,CTCP Dược phẩm Hà Tây,DHT
+10,CTCP Xuất nhập khẩu Y tế DOMESCO,DMC
+10,Tổng CTCP Y tế DANAMECO,DNM
+10,CTCP Dược phẩm Trung ương 2,DP2
+10,CTCP Dược phẩm Trung ương 3,DP3
+10,CTCP Dược Đồng Nai,DPP
+10,CTCP Dược phẩm Tipharco,DTG
+10,Tổng Công ty Dược Việt Nam – CTCP,DVN
+10,CTCP Dược Hà Tĩnh,HDP
+10,CTCP Dược phẩm Imexpharm,IMP
+10,CTCP Thiết bị Y tế Việt Nhật,JVC
+10,CTCP Dược Lâm Đồng – Ladophar,LDP
+10,CTCP Dược thú Y Cai Lậy,MKV
+10,CTCP Dược Medipharco,MTP
+10,CTCP Nam Dược,NDC
+10,CTCP Dược phẩm 2/9,NDP
+10,CTCP Dược phẩm OPC,OPC
+10,CTCP Dược phẩm Dược liệu Pharmedic,PMC
+10,CTCP Pymepharco,PME
+10,CTCP Dược phẩm Phong Phú,PPP
+10,CTCP SPM,SPM
+10,CTCP Traphaco,TRA
+10,CTCP Dược Trung ương 3,TW3
+10,CTCP Dược phẩm TW 25,UPH
+10,CTCP Dược phẩm Trung Ương Vidipha,VDP
+10,CTCP Khử trùng Việt Nam,VFG
+10,CTCP Y Dược phẩm Vimedimex,VMD
+11,CTCP Thủy sản Mekong - HOSE,AAM
+11,CTCP Xuất nhập khẩu Thủy sản Bến Tre - HOSE,ABT
+11,CTCP Xuất nhập khẩu Thủy sản Cửu Long An Giang - HOSE,ACL
+11,CTCP Xuất nhập khẩu Thủy sản An Giang - UPCOM,AGF
+11,CTCP Nam Việt - HSX,ANV
+11,CTCP Kinh doanh Thủy Hải Sản Sài Gòn - UPCOM,APT
+11,CTCP Thủy sản Bạc Liêu - HNX,BLF
+11,CTCP Chế biến và Xuất nhập khẩu Thủy sản CADOVIMEX - UPCOM,CAD
+11,CTCP Thủy sản Cà Mau - UPCOM,CAT
+11,CTCP Xuất nhập khẩu Thủy sản Cần Thơ - UPCOM,CCA
+11,CTCP Camimex Group - HOSE,CMX
+11,CTCP Camimex Group - HOSE,CMX
+11,CTCP Nam Việt - HSX,DAT
+11,CTCP Thực phẩm Sao Ta,FMC
+11,Trung tâm Giống Thủy sản Quảng Nam - UPCOM,GQN
+11,CTCP Đầu tư Thương mại Thủy Sản - UPCOM,ICF
+11,CTCT Đầu tư và phát triển đa quốc gia IDI,IDI
+11,CTCP Chế biến Thủy sản Xuất khẩu Minh Hải - UPCOM,JOS
+11,CTCP Kiên Hùng - HNX,KHS
+11,CTCP Xuất khẩu Thủy sản Khánh Hòa - UPCOM,KSE
+11,CTCP Tập đoàn Thủy sản Minh Phú - UPCOM,MPC
+11,CTCP Chế biến Thủy sản Xuất khẩu Ngô Quyền - UPCOM,NGC
+11,CTCP Công nghiệp Thủy sản - UPCOM,SCO
+11,Tổng Công ty Thuỷ sản Việt Nam - UPCOM,SEA
+11,CTCP Phục vụ Mặt đất Sài Gòn - HOSE,SGN
+11,CTCP Nông nghiệp Hùng Hậu - HNX,SJ1
+11,CTCP XNK Thuỷ sản Năm Căn - UPCOM,SNC
+11,CTCP XNK Thuỷ sản Miền Trung - UPCOM,SPD
+11,CTCP Xuất nhập khẩu Thủy sản Hà Nội - UPCOM,SPH
+11,CTCP XNK Thuỷ sản Sài Gòn - UPCOM,SSN
+11,CTCP Thủy sản số 4 - HOSE,TS4
+11,CTCP Vĩnh Hoàn - HSX,VHC
+11,CTCP Đầu tư Việt Việt Nhật - UPCOM,VNH
+12,CTCP Tập Đoàn Tiên Sơn Thanh Hóa,AAT
+12,Cty Cổ phần Damsan,ADS
+12,CTCP 28.1,AG1
+12,CTCP Giày Bình Định - UPCOM,BDF
+12,CTCP May mặc Bình Dương,BDG
+12,CTCP May Bình Minh,BMG
+12,CTCP Dệt may – Đầu tư – Thương mại Thành Công - HOSE,CTM
+12,CTCP Tổng Công ty May Đáp Cầu,DCG
+12,Cty Cổ phần Dệt may 7,DM7
+12,Cty Cổ phần Everpia,EVE
+12,CTCP Đầu tư Dệt may G.Home - UPCOM,G20
+12,Cty Cổ phần Sản xuất Kinh doanh và XNK Bình Thạnh,GIL
+12,Cty Cổ phần Garmex Sài Gòn,GMC
+12,CTCP Dệt may 29/3 - UPCOM,HCB
+12,CTCP Dệt May Huế - UPCOM,HDM
+12,CTCP Thương mại dịch vụ Thời trang Hà Nội - UPCOM,HFS
+12,Cty Cổ phần May Hữu Nghị,HNI
+12,Tổng CTCP Dệt may Hà Nội - UPCOM,HSM
+12,Tổng CTCP Dệt may Hòa Thọ - UPCOM,HTG
+12,Tổng Công ty May Hưng Yên - CTCP,HUG
+12,Cty Cổ phần Mirae,KMR
+12,CTCP Giày da và May mặc Xuất khẩu (LEGAMEX) - UPCOM,LGM
+12,Tổng Công ty May 10 – CTCP - UPCOM,M10
+12,CTCP Tổng Công ty May Đồng Nai - UPCOM,MDN
+12,Tổng Công ty Đức Giang - CTCP,MGG
+12,CTCP Dệt Minh Khai - UPCOM,MKT
+12,Tổng Công ty May Nhà Bè – CTCP - UPCOM,MNB
+12,CTCP Tập đoàn MPT,MPT
+12,Cty Cổ phần May Sông Hồng,MSH
+12,Tổng CTCP Dệt may Nam Định - UPCOM,NDT
+12,CTCP May Nam Định - UPCOM,NJC
+12,CTCP May Phú Thịnh – Nhà Bè - UPCOM,NPS
+12,CTCP Dệt – May Nha Trang - UPCOM,NTT
+12,CTCP May Xuất khẩu Phan Thiết - UPCOM,PTG
+12,CTCP Đầu tư Phát triển Sài Gòn 3 Group,SGI
+12,CTCP Sợi Phú Bài - UPCOM,SPB
+12,CTCP Giáo dục G Sài Gòn,SSF
+12,CTCP Sợi Thế Kỷ - HOSE,STK
+12,Cty Cổ phần Dệt may - Đầu tư - Thương mại Thành Công,TCM
+12,CTCP Đầu tư và Phát triển TDT,TDT
+12,CTCP Vải sợi May mặc Miền Bắc,TET
+12,CTCP Tứ Hải Hà Nam,THM
+12,CTCP May Quốc tế Thắng Lợi,TLI
+12,Cty Cổ phần Đầu tư và Thương mại TNG,TNG
+12,CTCP May Thanh Trì,TTG
+12,Tổng Công ty Việt Thắng,TVT
+12,CTCP – Viện nghiên cứu Dệt may - UPCOM,VDM
+12,CTCP Vinatex Đà Nẵng,VDN
+12,Tổng CTCP May Việt Tiến - UPCOM,VGG
+12,Tập đoàn Dệt may Việt Nam - UPCOM,VGT
+12,CTCP X20,X20
+12,CTCP 26,X26
+13,CTCP Xuất nhập khẩu Hàng không,ARM
+13,CTCP Tập đoàn ASG,ASG
+13,CTCP Dịch vụ Hàng không Taseco,AST
+13,CTCP Dịch vụ Bến Thành,BSC
+13,CTCP Cảng An Giang,CAG
+13,CTCP Cảng Cửa Cấm Hải Phòng - UPCOM,CCP
+13,CTCP Cảng Cam Ranh - UPCOM,CCR
+13,CTCP Cảng Cần Thơ - UPCOM,CCT
+13,CTCP Cảng Đà Nẵng - HNX,CDN
+13,CTCP Dịch vụ Sân bay Quốc tế Cam Ranh,CIA
+13,CTCP Cảng Cát Lái - HOSE,CLL
+13,CTCP Cảng Chân Mây - UPCOM,CMP
+13,CTCP Hàng Hải Đông Đô - UPCOM,DDM
+13,CTCP Tập đoàn Năng lượng Tái tạo Việt Nam - HNX,DL1
+13,CTCP Logistics Cảng Đà Nẵng - UPCOM,DNL
+13,CTCP Quản lý Đường sông Số 3,DS3
+13,CTCP Thương mại Dịch vụ Tổng hợp Cảng Hải Phòng - UPCOM,DVC
+13,CTCP Đầu tư và Phát triển Cảng Đình Vũ - HOSE,DVP
+13,CTCP Cảng Đoạn Xá - HNX,DXP
+13,CTCP Đầu tư Dịch vụ và Phát triển Xanh,GIC
+13,CTCP Gemadept - HOSE,GMD
+13,CTCP Vận tải Sản Phẩm Khí Quốc tế - HOSE,GSP
+13,CTCP Thuận Thảo - UPCOM,GTT
+13,CTCP Vận tải và Xếp dỡ Hải An - HOSE,HAH
+13,CTCP Thương mại Dịch vụ Vận tải Xi măng Hải Phòng - HNX,HCT
+13,CTCP Hưng Đạo Container - UPCOM,HDO
+13,CTCP Hoàng Hà - HNX,HHG
+13,CTCP Hải Minh,HMH
+13,CTCP Vận tải Đường sắt Hà Nội - UPCOM,HRT
+13,CTCP Thương mại Hóc Môn - HNX,HTC
+13,CTCP Vận tải Hà Tiên - HOSE,HTV
+13,Tổng Công ty Hàng không Việt Nam - CTCP,HVN
+13,CTCP ICD Tân Cảng - Long Bình,ILB
+13,CTCP ICD Tân Cảng Sóng Thần - UPCOM,IST
+13,CTCP Cung ứng và Dịch vụ Kỹ thuật Hàng Hải - HNX,MAC
+13,CTCP Dịch vụ Hàng không Sân bay Đà Nẵng,MAS
+13,CTCP MHC - HOSE,MHC
+13,Tổng công ty Hàng Hải Việt Nam,MVN
+13,CTCP Cảng Nghệ Tĩnh - HNX,NAP
+13,CTCP Dịch vụ Hàng hóa Nội Bài,NCT
+13,CTCP Vận tải Khí và Hóa chất Việt Nam - HNX,PCT
+13,CTCP Cảng Đồng Nai - HOSE,PDN
+13,CTCP PGT Holdings - HNX,PGT
+13,CTCP Cảng Hải Phòng - HNX,PHP
+13,CTCP Thương mại và Vận tải Petrolimex Hà Nội - HNX,PJC
+13,CTCP Vận tải Xăng dầu đường Thủy Petrolimex - HOSE,PJT
+13,CTCP Logistics Portserco - HNX,PRC
+13,CTCP Vận tải và Dịch vụ Petrolimex Sài Gòn - HNX,PSC
+13,CTCP Cảng Dịch vụ Dầu khí Tổng hợp PTSC Thanh Hóa - UPCOM,PSN
+13,CTCP Cảng Dịch vụ Dầu khí Đình Vũ - UPCOM,PSP
+13,CTCP Vận tải và Dịch vụ Petrolimex Hải Phòng - HNX,PTS
+13,CTCP Vận tải Dầu khí Thái Bình Dương - UPCOM,PVP
+13,Tổng CTCP Vận tải Dầu khí - HOSE,PVT
+13,CTCP Tân Cảng Quy Nhơn - UPCOM,QSP
+13,CTCP Xếp dỡ và Dịch vụ Cảng Sài Gòn - UPCOM,SAC
+13,CTCP Dịch vụ Hàng hóa Sài Gòn,SCS
+13,CTCP Đại lý Vận tải SAFI - HOSE,SFI
+13,CTCP Phục vụ Mặt đất Sài Gòn,SGN
+13,CTCP Cảng Sài Gòn - UPCOM,SGP
+13,CTCP Tàu cao tốc Superdong - Kiên Giang,SKG
+13,CTCP Vận tải biển Hải Âu - UPCOM,SSG
+13,CTCP Kho vận Miền Nam,STG
+13,CTCP Vận chuyển Sài Gòn Tourist - UPCOM,STT
+13,Tổng CTCP Đường Sông Miền Nam,SWC
+13,CTCP Đại lý Giao nhận Vận tải Xếp dỡ Tân Cảng - HOSE,TCL
+13,CTCP Vận tải Đa phương thức Duyên Hải - HOSE,TCO
+13,CTCP Cáp treo Núi Bà Tây Ninh,TCT
+13,CTCP Kho Vận Tân Cảng - UPCOM,TCW
+13,CTCP Dịch vụ Vận tải và Thương mại - HNX,TJC
+13,CTCP Transimex - HOSE,TMS
+13,CTCP Cảng Thị Nại - UPCOM,TNP
+13,CTCP Transimex Logistics,TOT
+13,CTCP Đầu tư Xây dựng và Công nghệ Tiến Trung,TTZ
+13,CTCP Vinafco - UPCOM,VFC
+13,CTCP Vận tải và Thuê tàu - UPCOM,VFR
+13,CTCP Cảng Rau Quả - HNX,VGP
+13,CTCP Vận tải Xăng dầu Vipco - HOSE,VIP
+13,CTCP Hàng không Vietjet,VJC
+13,CTCP Phát triển Hàng Hải,VMS
+13,CTCP Vận tải Biển Vinaship - UPCOM,VNA
+13,CTCP Vinafreight,VNF
+13,CTCP Logistics Vinalink - HOSE,VNL
+13,CTCP Ánh Dương Việt Nam - HOSE,VNS
+13,CTCP Giao nhận Vận tải Ngoại thương - HNX,VNT
+13,CTCP Vận tải Biển Việt Nam) - HOSE,VOS
+13,CTCP Đại lý Hàng hải Việt Nam,VSA
+13,CTCP Container Việt Nam - HOSE,VSC
+13,CTCP Container Miền Trung,VSM
+13,CTCP Vận tải Xăng dầu Vitaco - HOSE,VTO
+13,CTCP Bến xe Miền Tây,WCS
+14,Tổng CTCP bảo hiểm Ngân hàng Nông nghiệp,ABI
+14,Tổng CTCP bảo hiểm Hàng Không,AIC
+14,Tổng CTCP bảo hiểm Ngân hàng Đầu tư và phát triển Việt Nam,BIC
+14,Tổng CTCP bảo hiểm Bảo Long,BLI
+14,Tổng CTCP Bảo Minh,BMI
+14,Tập đoàn Bảo Việt,BVH
+14,Tổng CTCP bảo hiểm Quân Đội,MIG
+14,Tổng CTCP bảo hiểm Petrolimex,PGI
+14,Tổng CTCP Tái bảo hiểm Hà Nội,PRE
+14,Tổng CTCP bảo hiểm Bưu Điện,PTI
+14,CTCP PVI,PVI
+14,Tổng CTCP tái bảo hiểm Quốc gia Việt Nam,VNR
+15,CTCP Đầu tư Nhãn hiệu Việt,ABR
+15,CTCP Mỹ thuật và Truyền thông,ADC
+15,CTCP Sách và Thiết bị Bình Định,BDB
+15,CTCP Sách và Thiết bị Trường học Đà Nẵng,BED
+15,CTCP Sách và Thiết bị Bình Thuận,BST
+15,CTCP COKYVINA,CKV
+15,CTCP tập đoàn công nghệ CMC,CMG
+15,CTCP Công nghệ mạng và truyền thông,CMT
+15,Tổng CTCP Công trình Viettel,CTR
+15,CTCP Đầu tư và Phát triển Giáo dục Đà Nẵng,DAD
+15,CTCP Sách Giáo dục tại Thành phố Đà Nẵng,DAE
+15,CTCP Đầu tư Sao Thăng Long,DST
+15,CTCP Sách Giáo dục tại Thành phố Hà Nội,EBS
+15,CTCP Tập Đoàn ECI,ECI
+15,CTCP Đầu tư và Phát triển Giáo dục Hà Nội,EID
+15,CTCP đầu tư phát triển công nghệ điện tử – viễn thông,ELC
+15,CTCP FPT,FPT
+15,CTCP Kỹ thuật Điện Toàn cầu,GLT
+15,CTCP Sách Đại học - Dạy nghề,HEV
+15,CTCP tập đoàn HIPT,HIG
+15,CTCP dịch vụ công nghệ tin học HPT,HPT
+15,CTCP viễn thông – tin học bưu điện,ICT
+15,CTCP Công nghệ Tiên Phong,ITD
+15,CTCP Kasati,KST
+15,CTCP Sách và Thiết bị Trường học Long An,LBE
+15,CTCP Công nghệ One,ONE
+15,CTCP Tin học Viễn thông Petrolimex,PIA
+15,CTCP thiết bị Bưu Điện,POT
+15,CTCP Sách và Thiết bị Trường học Quảng Ninh,QST
+15,CTCP Sam Holdings,SAM
+15,CTCP công nghệ Sao Bắc Đẩu,SBD
+15,CTCP Đầu tư và Phát triển Giáo dục Phương Nam,SED
+15,CTCP Sách Giáo dục tại Thành phố Hồ Chí Minh,SGD
+15,CTCP công nghệ viễn thông Sài Gòn,SGT
+15,CTCP Công nghệ Viễn Thông Sài Gòn,SGT
+15,CTCP Sách và Thiết bị Giáo dục Miền Nam,SMN
+15,CTCP Sara Việt Nam,SRA
+15,CTCP Sách và Thiết bị Trường học Thành phố Hồ Chí Minh,STC
+15,CTCP In sách giáo khoa tại Thành phố Hà Nội,TPH
+15,CTCP Viễn Liên,UNI
+15,Tổng CTCP điện tử và tin học Việt Nam,VEC
+15,CTCP Viễn thông VTC,VTC
+15,CTCP Viễn thông điện tử Vinacap,VTE
+16,CTCP Hợp Nhất,AAH
+16,CTCP 397,BCB
+16,CTCP XNK than - Vinacomin,CLM
+16,CTCP Than Cao Sơn - TKV,CST
+16,CTCP Than Hà Lầm – Vinacomin - HNX,HLC
+16,CTCP Đầu tư Thương mại và Dịch vụ – Vinacomin,ITS
+16,CTCP Than Mông Dương – Vinacomin - HNX,MDC
+16,CTCP Than Núi Béo – Vinacomin - HNX,NBC
+16,CTCP Than Cọc Sáu – Vinacomin - HNX,TC6
+16,CTCP Than Đèo Nai – VinacominCTCP Than Đèo Nai – Vinacomin - HNX,TDN
+16,CTCP Than Hà Tu – Vinacomin - HNX,THT
+16,CTCP Kinh doanh Than Miền Bắc – Vinacomin - HNX,TMB
+16,CTCP Than Vàng Danh – Vinacomin - HNX,TVD
+16,CTCP Vận tải và Chế biến Than Đông Bắc,VDB
+17,CTCP Đầu tư bất động sản An Gia,AGG
+17,CTCP Alphanam Ec,AME
+17,CTCP Châu Á Thái Bình Dương,API
+17,CTCP Thống Nhất,BAX
+17,CTCP xây dựng và giao thông Bình Dương,BCE
+17,CTCP Bamboo Capital,BCG
+17,Tổng Công ty Đầu tư và Phát triển Công nghiệp,BCM
+17,CTCP Xây dựng 47,C47
+17,CTCP Xây dựng 1369,C69
+17,CTCP Xây dựng và đầu tư 492,C92
+17,CTCP Đầu Tư và Phát triển Đô Thị Dầu khí Cửu Long,CCL
+17,CTCP Chương Dương,CDC
+17,CTCP Xây dựng Hạ tầng CII,CEE
+17,CTCP Tập đoàn CEO,CEO
+17,CTCP COMA 18,CIG
+17,CTCP Đầu tư Hạ tầng Kỹ thuật Thành phố Hồ Chí Minh,CII
+17,CTCP Tập đoàn Tư vấn Đầu tư Xây dựng Kiên Giang,CKG
+17,CTCP CM Việt Nam,CMS
+17,CTCP Đầu tư bất động sản thế kỷ,CRE
+17,CTCP Tập đoàn Cotana,CSC
+17,CTCP Xây dựng Coteccons,CTD
+17,CTCP Đầu tư và phát triển Cường Thuận IDICO,CTI
+17,Tổng CTCP đầu tư xây dựng và thương mại Việt Nam,CTX
+17,CTCP Đầu tư và xây lắp Constrexim số 8,CX8
+17,CTCP Địa ốc 11,D11
+17,CTCP Phát triển đô thị công nghiệp số 2,D2D
+17,CTCP đầu tư phát triển DIC số 2,DC2
+17,CTCP Phát triển xây dựng Dic Holding,DC4
+17,Tổng CTCP đầu tư và phát triển xây dựng,DIG
+17,CTCP Đầu tư và phát triển xây dựng Hội An,DIH
+17,CTCP Đạt Phương,DPG
+17,CTCP DRH Holdings,DRH
+17,CTCP Đệ Tam,DTA
+17,CTCP Đầu tư và phát triển Thành Đạt,DTD
+17,CTCP Tập đoàn Đất Xanh,DXG
+17,CTCP Tập đoàn Everland,EVG
+17,CTCP Fecon,FCN
+17,CTCP Ngoại thương và phát triển đầu tư Tp Hồ Chí Minh,FDC
+17,CTCP Địa ốc First Real,FIR
+17,CTCP Đầu tư Thương mại Bất động sản An Dương Thảo Điền,HAR
+17,CTCP Hacisco,HAS
+17,CTCP Tần đoàn xây dựng Hòa Bình,HBC
+17,CTCP Phát triển nhà Bà Rịa Vũng Tàu,HDC
+17,CTCP Tập đoàn Hà Đô,HDG
+17,CTCP Đầu tư và phát triển Bất động sản Hudland,HLD
+17,CTCP đầu tư Hải Phát,HPX
+17,CTCP Tư vấn Thương mại Dịch vụ Địa Ốc Hoàng Quân,HQC
+17,CTCP Đầu tư và phát triển Hạ tầng Idico,HTI
+17,CTCP Hưng Thịnh Incons,HTN
+17,CTCP Đầu tư và xây dựng Hud1,HU1
+17,CTCP Đầu tư và xây dựng Hud3,HU3
+17,CTCP Xây lắp Thừa Thiên Huế,HUB
+17,CTCP Tasco,HUT
+17,CTCP Đầu tư và công nghệ HVC,HVH
+17,CTCP Xây dựng sông Hồng,ICG
+17,CTCP đầu tư IDJ Việt Nam,IDJ
+17,CTCP Phát triển hạ tầng Vĩnh Phúc,IDV
+17,Công ty đầu tư và phát triển hạ tầng kỹ thuật,IJC
+17,CTCP Đầu tư và công nghiệp Tân Tạo,ITA
+17,CTCP Đầu tư và kinh doanh nhà,ITC
+17,Tổng công ty phát triển đô thị Kinh Bắc,KBC
+17,CTCP Đầu tư và Kinh doanh Nhà Khang Điền,KDH
+17,CTCP Kosy,KOS
+17,CTCP tập đoàn đầu tư KTT,KTT
+17,CTCP Lilama 10,L10
+17,CTCP Licogi 14,L14
+17,CTCP Đầu tư và xây dựng số 18,L18
+17,CTCP cơ khí lắp máy Lilama,L35
+17,CTCP Đầu tư và xây dựng 40,L40
+17,CTCP Xây dựng Lilama 45 – 3,L43
+17,CTCP Xây dựng Lilama 69 – 3,L61
+17,CTCP Xây dựng Lilama 69 – 2,L62
+17,CTCP Lắp máy – Thí nghiệm Cơ điện,LCD
+17,CTCP Licogi 16,LCG
+17,CTCP Licogi 166,LCS
+17,CTCP Đầu tư LDG,LDG
+17,Công ty bất động sản điện lực Miền Trung,LEC
+17,CTCP đầu tư cầu đường CII,LGC
+17,CTCP Đầu tư và phát triển đô thị Long Giang,LGL
+17,CTCP Đầu tư và xây dựng thủy lợi Lâm Đồng,LHC
+17,CTCP Long Hậu,LHG
+17,CTCP Licogi 13,LIG
+17,CTCP Lilama 7,LM7
+17,CTCP Lilama 18,LM8
+17,CTCP Đầu tư xây dựng Lương Tài,LUT
+17,CTCP Đầu tư và Xây dựng BDC Việt Nam,MCO
+17,CTCP Đầu tư MST,MST
+17,CTCP Đầu tư Năm Bảy Bảy,NBB
+17,CTCP Đầu tư phát triển Nhà Đà Nẵng,NDN
+17,CTCP Xây lắp phát triển nhà Đà Nẵng,NDX
+17,Công ty đầu tư phát triển nhà và đô thị Nam Hà Nội,NHA
+17,CTCP đầu tư Nam Long,NLG
+17,CTCP Tập đoàn Danh Khôi,NRC
+17,CTCP Phát triển đô thị Từ Liêm,NTL
+17,CTCP Tập đoàn Đầu tư Địa ốc No Va,NVL
+17,CTCP Xây lắp Điện I,PC1
+17,CTCP Phát triển Bất động sản Phát Đạt,PDR
+17,CTCP Tập đoàn III Petrolimex,PEN
+17,CTCP Xây dựng Phục Hưng Holdings,PHC
+17,CTCP Dịch vụ kỹ thuật điện lực dầu khí Việt Nam,PPS
+17,CTCP Đầu tư và xây dựng Bưu điện,PTC
+17,CTCP Thiết kế xây dựng thương mại Phúc Thịnh,PTD
+17,CTCP đầu tư và xây dựng dầu khí,PTL
+17,CTCP Đầu tư PV 2,PV2
+17,CTCP Đầu tư nhà đất,PVL
+17,CTCP Xây dựng Công nghiệp và Dân dụng Dầu khí,PXI
+17,CTCP kết cấu kim loại và lắp máy dầu khí,PXS
+17,CTCP Quốc Cường Gia Lai,QCG
+17,CTCP Công trình giao thông vận tải Quảng Nam,QTC
+17,CTCP Địa ốc Chợ Lớn,RCL
+17,CTCP Cơ điện lạnh,REE
+17,CTCP Sông Đà 505,S55
+17,CTCP Xây dựng số 5,SC5
+17,CTCP SCI EC,SCI
+17,CTCP Địa ốc Sài Gòn Thường Tín,SCR
+17,CTCP Sông Đà 2,SD2
+17,CTCP Sông Đà 4,SD4
+17,CTCP Sông Đà 5,SD5
+17,CTCP Sông Đà 6,SD6
+17,CTCP Sông Đà 9,SD9
+17,CTCP Sông Đà 10,SDT
+17,CTCP Đầu tư và xây dựng phát triển đô thị sông Đà,SDU
+17,CTCP Địa Ốc Sài Gòn,SGR
+17,CTCP Sông Đà 1 – 01,SJC
+17,CTCP Sông Đà 11,SJE
+17,CTCP Đầu tư phát triển đô thị và khu công nghiệp Sông Đà,SJS
+17,CTCP Kỹ Nghệ Lạnh,SRF
+17,CTCP Sonadezi Long Bình,SZB
+17,CTCP Sonadezi Châu Đức,SZC
+17,CTCP Sonadezi Long Thành,SZL
+17,CTCP Xây lắp Thành An 96,TA9
+17,CTCP Đầu tư phát triển công nghiệp và vận tải,TCD
+17,CTCP đầu tư dịch vụ tài chính Hoàng Huy,TCH
+17,CTCP Phát triển và kinh doanh Bình Dương,TDC
+17,CTCP Phát triển nhà Thủ Đức,TDH
+17,CTCP Thái Holding,THD
+17,CTCP Tập đoàn đầu tư Thăng Long,TIG
+17,CTCP phát triển khu công nghiệp Tín Nghĩa,TIP
+17,CTCP Sản xuất Kinh doanh Xuất nhập khẩu Dịch vụ và Đầu tư Tân Bình,TIX
+17,CTCP Xây dựng và kinh doanh địa ốc Tấn Kỳ,TKC
+17,CTCP Thương Mại và dịch vụ TNS Holdings,TN1
+17,CTCP dịch vụ kỹ thuật Viễn Thông,TST
+17,CTCP Tổng công ty Thăng Long,TTL
+17,CTCP Xây dựng và Phát triển tỉnh Bà Rịa Vũng Tàu,UDC
+17,CTCP Xây dựng số 12,V12
+17,CTCP Vinaconex 21,V21
+17,CTCP xây dựng số 1,VC1
+17,CTCP Đầu tư và xây dựng Vina2,VC2
+17,CTCP tập đoàn Nam Mê Kông,VC3
+17,CTCP Xây dựng và đầu tư Visicons,VC6
+17,CTCP tập đoàn BGI,VC7
+17,CTCP Xây dựng số 9,VC9
+17,CTCP Vinaconex 25,VCC
+17,CTCP xuất nhập khẩu và xây dựng Việt Nam,VCG
+17,CTCP Xây dựng điện Vneco 1,VE1
+17,CTCP Xây dựng điện Vneco2,VE2
+17,CTCP Xây dựng điện Vneco3,VE3
+17,CTCP Xây dựng điện Vneco4,VE4
+17,CTCP Xây dựng điện Vneco 8,VE8
+17,CTCP Vinhomes,VHM
+17,CTCP Tập đoàn Vingroup,VIC
+17,CTCP Vimeco,VMC
+17,CTCP khoáng sản đầu tư Visaco,VMI
+17,CTCP Xây dựng điện Việt Nam,VNE
+17,CTCP Vạn Phát Hưng,VPH
+17,CTCP Đầu tư Văn Phú,VPI
+17,CTCP Bất động sản và đầu tư VRC,VRC
+17,CTCP Vincom Retail,VRE
+17,CTCP Đầu tư và xây dựng cấp thoát nước,VSI
+17,CTCP Xây dựng Vật Liệu Bến Tre,VXB
+18,CTCP Xuất nhập khẩu Nông sản Thực phẩm An Giang - Upcom,AFX
+18,CTCP Xuất Nhập khẩu An Giang - HOSE,AGM
+18,CTCP Rau quả Thực phẩm An Giang - Upcom,ANT
+18,CTCP Chiếu xạ An Phú - HOSE,APC
+18,CTCP Nông sản thực phẩm Quảng Ngãi - Upcom,APF
+18,CTCP Nông nghiệp BAF Việt Nam - HOSE,BAF
+18,CTCP Bibica - HOSE,BBC
+18,CTCP Thực phẩm Bích Chi - HNX,BCF
+18,Tổng CTCP Bia - Rượu - Nước giải khát Hà Nội - HOSE,BHN
+18,CTCP Lương thực Bình Định - Upcom,BLT
+18,CTCP Bột mỳ Vinafood 1 - Upcom,BMV1
+18,CTCP Đầu tư Sản xuất Bảo Ngọc - HNX,BNA
+18,Cty Cổ phần Bia Sài Gòn - Sông Lam - Upcom,BSL
+18,CTCP Đồ hộp Hạ Long - HNX,CAN
+18,CTCP Lâm Nông sản Thực phẩm Yên Bái - HNX,CAP
+18,Cty Cổ phần Thực phẩm Cholimex - Upcom,CMF
+18,CTCP Lương thực Thực phẩm Colusa-Miliket - Upcom,CMN
+18,CTCP Tập đoàn Dabaco Việt Nam - HOSE,DBC
+18,CTCP Lương thực Thành phố Hồ Chí Minh - Upcom,FCS
+18,CTCP Xuất Nhập Khẩu Lương Thực – Thực Phẩm Hà Nội - Upcom,FHN
+18,CTCP Thực phẩm Sao Ta - HOSE,FMC
+18,CTCP GTNfoods - HOSE,GTN
+18,CTCP Bia Hà Nội - Hải Dương - HNX,HAD
+18,CTCP Thương mại Bia Hà Nội - HNX,HAT
+18,CTCP Rượu Hapro - Upcom,HAV
+18,CTCP Bánh kẹo Hải Hà - HNX,HHC
+18,CTCP Nông nghiệp và Thực phẩm Hà Nội – Kinh Bắc - Upcom,HKB
+18,CTCP Nông nghiệp Quốc tế Hoàng Anh Gia Lai - HOSE,HNG
+18,Cty Cổ phần Thực phẩm Quốc tế - Upcom,IFS
+18,CTCP Tập đoàn KIDO - HSX,KDC
+18,CTCP Đường Kon Tum - HNX,KTS
+18,CTCP Chế biến hàng Xuất khẩu Long An - HSX,LAF
+18,CTCP Mía Đường Lam Sơn - HOSE,LSS
+18,CTCP Tập đoàn Masan - HSX,MSN
+18,CTCP Tập đoàn MaSan - HOSE,MSN
+18,CTCP Nafoods Group - HOSE,NAF
+18,CTCP Nafoods Group - HSX,NAF
+18,CTCP Tập đoàn Pan - HSX,PAN
+18,Cty Cổ phần Đường Quảng Ngãi - Upcom,QNS
+18,Tổng CTCP Bia - Rượu - Nước giải khát Sài Gòn - HOSE,SAB
+18,CTCP Lương thực Thực phẩm Safoco - HNX,SAF
+18,CTCP Thành Thành Công - Biên Hòa - HOSE,SBT
+18,CTCP Nước giải khát Chương Dương - HOSE,SCD
+18,CTCP Xuất nhập khẩu Sa Giang - HNX,SGC
+18,CTCP Nông nghiệp Hùng Hậu - HNX,SJ1
+18,CTCP Mía Đường Sơn La - HNX,SLS
+18,CTCP Bia Sài Gòn - Miền Trung - HOSE,SMB
+18,Công ty Cổ phần Dầu Thực vật Tường An - HOSE,TAC
+18,CTCP Nông nghiệp Công nghệ cao Trung An - HSX,TAR
+18,CTCP Bia Hà Nội - Thanh Hóa - HNX,THB
+18,CTCP Vinacafé Biên Hòa - HSX,VCF
+18,CTCP Thực phẩm Lâm Đồng - HNX,VDL
+18,CTCP Dược liệu và Thực phẩm Việt Nam - HNX,VHE
+18,CTCP Lương thực Thực phẩm Vĩnh Long - Upcom,VLF
+18,CTCP Sữa Việt Nam - HSX,VNM
+18,Tổng Công ty Lương thực Miền Nam – CTCP - Upcom,VSF
+18,Cty Cổ phần Việt Nam Kỹ nghệ súc sản - Upcom,VSN
+19,CTCP Truyền thông VMG,ABC
+19,Tổng Công ty Chuyển phát nhanh Bưu Điện - CTCP,EMS
+19,CTCP Dịch vụ kỹ thuật Mobifone,MFS
+19,"CTCP Công nghệ thông tin, viễn thông và tự động hóa dầu khí",PAI
+19,CTCP tin học viễn thông Petrolimex,PIA
+19,CTCP Viễn thông FPT,POX
+19,CTCP dịch vụ viễn thông và in Bưu Điện,PTP
+19,CTCP Công nghệ và truyền thông Việt Nam,TTN
+19,Tổng CTCP đầu tư Quốc tế Viettel,VGI
+20,CTCP Mĩ thuật và Truyền thông,ADC
+20,CTCP Clever Group,ADG
+20,CTCP Clever Group,ADG
+20,CTCP Văn hóa Tân Bình,ALT
+20,CTCP Sách và Thiết bị Bình Định,BDB
+20,CTCP Sách và Thiết bị trường học Đà Nẵng,BED
+20,CTCP Sách – Thiết bị Bình Thuận,BST
+20,CTCP Truyền hình cáp Việt Nam,CAB
+20,CTCP TỔNG CÔNG TY TRUYỀN HÌNH CÁP VIỆT NAM,CAB
+20,CTCP Đầu tư và Phát triển giáo dục Đà Nẵng,DAD
+20,"CTCP Sách Giáo dục tại TP,Đà Nẵng",DAE
+20,Công ty TNHH MTV Sách và Thiết bị trường học tỉnh Đắk Nông,DNB
+20,CTCP Công viên nước Đầm Sen,DSN
+20,CTCP Đầu tư Sao Thăng Long,DST
+20,CTCP Sách Giáo dục tại Thành phố Hà Nội,EBS
+20,CTCP Bản đồ và Tranh ảnh Giáo dục,ECI
+20,CTCP Đầu tư và Phát triển Giáo dục Hà Nội,EID
+20,CTCP Dịch vụ Xuất bản Giáo dục Hà Nội,EPH
+20,CTCP Phát hành sách thành phố Hồ Chí Minh – FAHASA,FHS
+20,CTCP Dịch vụ trực tuyến FPT,FOC
+20,CTCP Sách và Thiết bị trường học Hà Nội,HAB
+20,CTCP Sách Đại học – Dạy nghề,HEV
+20,CTCP in sách giáo khoa Hòa Phát,HTP
+20,CTCP In Tổng hợp Bình Dương,IBD
+20,Công ty TNHH MTV In báo Nghệ An,IBN
+20,CTCP In Hàng không,IHK
+20,CTCP In số 4,IN4
+20,CTCP In và Phát hành biểu mẫu thống kê,IPH
+20,CTCP Sách và Thiết bị Trường học Long An,LBE
+20,CTCP Sách và Thiết bị giáo dục miền Bắc,NBE
+20,CTCP Văn hóa Phương Nam,PNC
+20,CTCP Sách và Thiết bị trường học Quảng Ninh,QST
+20,CTCP đầu tư PV-Inconess,RGC
+20,CTCP In sách giáo khoa TP Hồ Chí Minh,SAP
+20,CTCP Đầu tư và Phát triển giáo dục Phương Nam,SED
+20,CTCP Sách Giáo dục tại thành phố Hồ Chí Minh,SGD
+20,CTCP Khách sạn Sài Gòn,SGH
+20,CTCP Sách và thiết bị giáo dục Miền Nam,SMN
+20,"CTCP Sách và Thiết bị trường học Tp, Hồ Chí Minh",STC
+20,CTCP phát hành sách Thái Nguyên,STH
+20,CTCP Đo đạc và Khoáng sản,SUM
+20,CTCP In Sách Giáo Khoa tại TP Hà Nội,TPH
+20,CTCP Du lịch - Thương mại Tây Ninh,TTT
+20,CTCP Trung tâm hội chợ triển lãm Việt Nam,VEF
+20,CTCP Sách Việt Nam,VNB
+20,CTCP Quảng cáo và Hội chợ thương mại,VNX
+20,CTCP VINAPRINT,VPR
+20,CTCP tập đoàn Yeah1,YEG
+21,Tập đoàn Công nghiệp cao su Việt Nam,GVR
+21,Công ty CP cao su Hòa Bình,HRC
+21,CTCP cao su Phước Hòa,PHR
+21,Công ty CP Công nghiệp và xuất nhập khẩu cao su,RBC
+21,Công ty CP cao su Bến Thành,BRC
+21,Công ty CP cao su Bà Rịa,BRR
+21,Công ty CP Xây dựng cao su Đồng Nai,CDR
+21,CTCP Công nghiệp Cao su Miền Nam,CSM
+21,Công ty CP Cao su Đồng Phú,DPR
+21,Công ty CP cao su Đà Nẵng,DRC
+21,Công ty CP cao su Đắk Lắk,DRG
+21,Công ty CP Đầu tư cao su Đăk Lăk,DRI
+21,Công ty CP Đầu tư cao su Đắk Lắk,DRI
+21,Tập đoàn Công nghiệp cao su Việt Nam,GVR
+21,Công ty CP Nông nghiệp Quốc tế Hoàng Anh Gia Lai,HNG
+21,Công ty CP cao su Hòa Bình,HRC
+21,Công ty CP Cao su Hà Nội,HRG
+21,Công ty CP Cao su Công nghiệp,IRC
+21,Công ty CP cao su Phước Hòa,PHR
+21,Công ty CP Công nghiệp và xuất nhập khẩu cao su,RBC
+21,Công ty CP xây dựng Địa ốc cao su,RCD
+21,Công ty CP Xây dựng – địa ốc cao su,RCD
+21,Công ty CP cao su Tân Biên,RTB
+21,Công ty CP Đầu tư Cao su Tân Biên,RTB
+21,Công ty CP Cao su Sông Bé,SBR
+21,CTCP Cao su Sao Vàng,SRC
+21,Công ty CP cao su Thống Nhất,TNC
+21,Công ty CP Cao su Tây Ninh,TRC
+21,Công ty CP cao su Quảng Nam,VHG
+21,Công ty CP Đầu tư cao su Quảng Nam,VHG
+21,Công ty CP Phát triển đô thị và khu công nghiệp cao su Việt Nam,VRG
