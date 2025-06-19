@@ -15,7 +15,7 @@ soup = BeautifulSoup(response.content, "html.parser")
 
 h3s = soup.findAll("h3")
 
-folder_path = r"/home/huedt/Documents/PythonProjects/ETLReportFinance"
+folder_path = r"/ELTReportFinance"
 folder_stock_group = os.path.join(folder_path, "data")
 os.makedirs(folder_stock_group, exist_ok=True)
 data = []

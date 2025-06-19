@@ -93,8 +93,8 @@ def download_pdf(reportCode, link_pdf, pdf_path):
         print(f"Lỗi khi tải file, mã trạng thái: {response.status_code}")
 
 if __name__ == '__main__':
-    folder_path = r"/home/huedt/Documents/PythonProjects/ETLReportFinance"
-    csv_path = r"/home/huedt/Documents/PythonProjects/ETLReportFinance/data/macophieu.csv"
+    folder_path = r"/ELTReportFinance"
+    csv_path = r"/ELTReportFinance/data/macophieu.csv"
     pdf_path = os.path.join(folder_path, "pdfs")  # tạo folder ReportFinance để
     os.makedirs(pdf_path, exist_ok=True)
 
