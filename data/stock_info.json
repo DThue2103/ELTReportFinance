@@ -1,0 +1,4107 @@
+[
+    {
+        "id_group": 1,
+        "company_name": "ABBank (Ngân hàng TMCP An Bình)",
+        "stock_code": "ABB"
+    },
+    {
+        "id_group": 1,
+        "company_name": "ACB (Ngân hàng Á Châu)",
+        "stock_code": "ACB"
+    },
+    {
+        "id_group": 1,
+        "company_name": "Bac A Bank (Ngân hàng TMCP Bắc Á)",
+        "stock_code": "BAB"
+    },
+    {
+        "id_group": 1,
+        "company_name": "BIDV (Ngân hàng TMCP Đầu tư và Phát triển Việt Nam)",
+        "stock_code": "BID"
+    },
+    {
+        "id_group": 1,
+        "company_name": "BVBank (Ngân hàng Bản Việt)",
+        "stock_code": "BVB"
+    },
+    {
+        "id_group": 1,
+        "company_name": "Vietinbank (Ngân hàng TMCP Công thương Việt Nam)",
+        "stock_code": "CTG"
+    },
+    {
+        "id_group": 1,
+        "company_name": "Eximbank (Ngân hàng TMCP Xuất Nhập khẩu Việt Nam)",
+        "stock_code": "EIB"
+    },
+    {
+        "id_group": 1,
+        "company_name": "HD bank (Ngân hàng TMCP Phát triển Thành phố Hồ Chí Minh)",
+        "stock_code": "HDB"
+    },
+    {
+        "id_group": 1,
+        "company_name": "KienlongBank (Ngân hàng Kiên Long)",
+        "stock_code": "KLB"
+    },
+    {
+        "id_group": 1,
+        "company_name": "LPBank (Ngân hàng Bưu điện Liên Việt)",
+        "stock_code": "LPB"
+    },
+    {
+        "id_group": 1,
+        "company_name": "MB bank (Ngân hàng TMCP Quân đội)",
+        "stock_code": "MBB"
+    },
+    {
+        "id_group": 1,
+        "company_name": "MSB (Ngân hàng TMCP Hàng hải Việt Nam)",
+        "stock_code": "MSB"
+    },
+    {
+        "id_group": 1,
+        "company_name": "Nam A Bank (Ngân hàng TMCP Nam Á)",
+        "stock_code": "NAB"
+    },
+    {
+        "id_group": 1,
+        "company_name": "NCB (Ngân hàng TMCP Quốc dân)",
+        "stock_code": "NVB"
+    },
+    {
+        "id_group": 1,
+        "company_name": "OCB (Ngân hàng TMCP Phương Đông)",
+        "stock_code": "OCB"
+    },
+    {
+        "id_group": 1,
+        "company_name": "PGbank (Ngân hàng TMCP Xăng Dầu Petrolimex)",
+        "stock_code": "PGB"
+    },
+    {
+        "id_group": 1,
+        "company_name": "Saigon Bank (TMCP Sài Gòn Công thương)",
+        "stock_code": "SGB"
+    },
+    {
+        "id_group": 1,
+        "company_name": "SHB (Ngân hàng TMCP Sài Gòn - Hà Nội)",
+        "stock_code": "SHB"
+    },
+    {
+        "id_group": 1,
+        "company_name": "SeABank (Ngân hàng TMCP Đông Nam Á)",
+        "stock_code": "SSB"
+    },
+    {
+        "id_group": 1,
+        "company_name": "Sacombank (Ngân hàng TMCP Sài Gòn Thương Tín)",
+        "stock_code": "STB"
+    },
+    {
+        "id_group": 1,
+        "company_name": "Techcombank (Ngân hàng TMCP Kỹ Thương Việt Nam)",
+        "stock_code": "TCB"
+    },
+    {
+        "id_group": 1,
+        "company_name": "TPBank (Ngân hàng TMCP Tiên Phong)",
+        "stock_code": "TPB"
+    },
+    {
+        "id_group": 1,
+        "company_name": "VietABank (Ngân hàng TMCP Việt Á)",
+        "stock_code": "VAB"
+    },
+    {
+        "id_group": 1,
+        "company_name": "Vietbank (Ngân hàng TMCP Việt Nam Thương Tín)",
+        "stock_code": "VBB"
+    },
+    {
+        "id_group": 1,
+        "company_name": "Vietcombank (Ngân hàng TMCP Ngoại thương Việt Nam)",
+        "stock_code": "VCB"
+    },
+    {
+        "id_group": 1,
+        "company_name": "VIB (Ngân hàng TMCP Việt Nam Thịnh Vượng)",
+        "stock_code": "VIB"
+    },
+    {
+        "id_group": 2,
+        "company_name": "CTCP chứng khoán Agribank - HOSE",
+        "stock_code": "AGR"
+    },
+    {
+        "id_group": 2,
+        "company_name": "CTCP Chứng khoán APG",
+        "stock_code": "APG"
+    },
+    {
+        "id_group": 2,
+        "company_name": "CTCP Chứng khoán Châu Á Thái Bình Dương - HNX",
+        "stock_code": "APS"
+    },
+    {
+        "id_group": 2,
+        "company_name": "CTCP Chứng khoán BOS - HNX",
+        "stock_code": "ART"
+    },
+    {
+        "id_group": 2,
+        "company_name": "CTCP Chứng khoán Ngân hàng Đầu tư và Phát triển Việt Nam - HOSE",
+        "stock_code": "BSI"
+    },
+    {
+        "id_group": 2,
+        "company_name": "CTCP Chứng khoán Bảo Việt - HNX",
+        "stock_code": "BVS"
+    },
+    {
+        "id_group": 2,
+        "company_name": "CTCP Chứng khoán Ngân hàng Công thương Việt Nam - HOSE",
+        "stock_code": "CTS"
+    },
+    {
+        "id_group": 2,
+        "company_name": "CTCP Chứng khoán Everest - HNX",
+        "stock_code": "EVS"
+    },
+    {
+        "id_group": 2,
+        "company_name": "CTCP Chứng khoán FPT - HOSE",
+        "stock_code": "FTS"
+    },
+    {
+        "id_group": 2,
+        "company_name": "CTCP Chứng khoán Hòa Bình - HNX",
+        "stock_code": "HBS"
+    },
+    {
+        "id_group": 2,
+        "company_name": "CTCP Chứng khoán Thành phố Hồ Chí Minh - HOSE",
+        "stock_code": "HCM"
+    },
+    {
+        "id_group": 2,
+        "company_name": "CTCP Chứng khoán Đầu tư Việt Nam - HNX",
+        "stock_code": "IVS"
+    },
+    {
+        "id_group": 2,
+        "company_name": "CTCP Chứng khoán MB - HNX",
+        "stock_code": "MBS"
+    },
+    {
+        "id_group": 2,
+        "company_name": "CTCP Chứng khoán Dầu khí - HNX",
+        "stock_code": "PSI"
+    },
+    {
+        "id_group": 2,
+        "company_name": "CTCP Chứng khoán Sài Gòn – Hà Nội - HNX",
+        "stock_code": "SHS"
+    },
+    {
+        "id_group": 2,
+        "company_name": "CTCP Chứng khoán SSI - HOSE",
+        "stock_code": "SSI"
+    },
+    {
+        "id_group": 2,
+        "company_name": "CTCP Chứng khoán Trí Việt",
+        "stock_code": "TVB"
+    },
+    {
+        "id_group": 2,
+        "company_name": "CTCP Chứng khoán Thiên Việt - HOSE",
+        "stock_code": "TVS"
+    },
+    {
+        "id_group": 2,
+        "company_name": "CTCP Chứng khoán Bản Việt - HOSE",
+        "stock_code": "VCI"
+    },
+    {
+        "id_group": 2,
+        "company_name": "CTCP Chứng khoán Rồng Việt - HOSE",
+        "stock_code": "VDS"
+    },
+    {
+        "id_group": 2,
+        "company_name": "CTCP Chứng khoán Thương mại và Công nghiệp Việt Nam - HNX",
+        "stock_code": "VIG"
+    },
+    {
+        "id_group": 2,
+        "company_name": "CTCP Chứng khoán VIX - HOSE",
+        "stock_code": "VIX"
+    },
+    {
+        "id_group": 2,
+        "company_name": "CTCP Chứng khoán VNDirect - HOSE",
+        "stock_code": "VND"
+    },
+    {
+        "id_group": 2,
+        "company_name": "CTCP Chứng khoán Phố Wall - HNX",
+        "stock_code": "WSS"
+    },
+    {
+        "id_group": 3,
+        "company_name": "CTCP Thủy Điện A Vương - UPCOM",
+        "stock_code": "AVC"
+    },
+    {
+        "id_group": 3,
+        "company_name": "CTCP Thủy điện Bắc Hà - UPCOM",
+        "stock_code": "BHA"
+    },
+    {
+        "id_group": 3,
+        "company_name": "CTCP Thủy điện Buôn Đôn - UPCOM",
+        "stock_code": "BSA"
+    },
+    {
+        "id_group": 3,
+        "company_name": "CTCP Nhiệt điện Bà Rịa - HOSE",
+        "stock_code": "BTP"
+    },
+    {
+        "id_group": 3,
+        "company_name": "CTCP Thủy điện miền Trung - HOSE",
+        "stock_code": "CHP"
+    },
+    {
+        "id_group": 3,
+        "company_name": "CTCP Điện Cơ Hải Phòng - HNX",
+        "stock_code": "DHP"
+    },
+    {
+        "id_group": 3,
+        "company_name": "CTCP Điện nước An Giang - UPCOM",
+        "stock_code": "DNA"
+    },
+    {
+        "id_group": 3,
+        "company_name": "CTCP Thủy điện Đa Nhim – Hàm Thuận – Đa Mi - UPCOM",
+        "stock_code": "DNH"
+    },
+    {
+        "id_group": 3,
+        "company_name": "CTCP Thủy điện – Điện lực 3 - HOSE",
+        "stock_code": "DRL"
+    },
+    {
+        "id_group": 3,
+        "company_name": "CTCP Đầu tư Năng lượng Đại Trường Thành Holdings",
+        "stock_code": "DTE"
+    },
+    {
+        "id_group": 3,
+        "company_name": "Tổng công ty Điện lực TKV – CTCP - HNX",
+        "stock_code": "DTK"
+    },
+    {
+        "id_group": 3,
+        "company_name": "CTCP Thủy điện Điện lực Đắk Lắk - UPCOM",
+        "stock_code": "EAD"
+    },
+    {
+        "id_group": 3,
+        "company_name": "CTCP Điện Bắc Nà - HNX",
+        "stock_code": "EBA"
+    },
+    {
+        "id_group": 3,
+        "company_name": "CTCP EVN Quốc tế - UPCOM",
+        "stock_code": "EIC"
+    },
+    {
+        "id_group": 3,
+        "company_name": "Tổng công ty Phát điện 2 – Công ty TNHH MTV - UPCOM",
+        "stock_code": "GE2"
+    },
+    {
+        "id_group": 3,
+        "company_name": "CTCP Điện Gia Lai - HOSE",
+        "stock_code": "GEG"
+    },
+    {
+        "id_group": 3,
+        "company_name": "CTCP Thủy điện Gia Lai - UPCOM",
+        "stock_code": "GHC"
+    },
+    {
+        "id_group": 3,
+        "company_name": "CTCP Thủy điện Hương Sơn - UPCOM",
+        "stock_code": "GSM"
+    },
+    {
+        "id_group": 3,
+        "company_name": "CTCP Thủy điện Nậm Mu - HNX",
+        "stock_code": "HJS"
+    },
+    {
+        "id_group": 3,
+        "company_name": "CTCP Điện chiếu sáng Hải Phòng - UPCOM",
+        "stock_code": "HLE"
+    },
+    {
+        "id_group": 3,
+        "company_name": "CTCP Thủy điện Hủa Na - UPCOM",
+        "stock_code": "HNA"
+    },
+    {
+        "id_group": 3,
+        "company_name": "CTCP Nhiệt điện Hải Phòng - UPCOM",
+        "stock_code": "HND"
+    },
+    {
+        "id_group": 3,
+        "company_name": "Công ty CTCP Thủy điện Đăk Đoa - UPCOM",
+        "stock_code": "HPD"
+    },
+    {
+        "id_group": 3,
+        "company_name": "CTCP Thủy điện Srok Phu Miêng IDICO - UPCOM",
+        "stock_code": "ISH"
+    },
+    {
+        "id_group": 3,
+        "company_name": "CTCP Điện lực Khánh Hòa - HOSE",
+        "stock_code": "KHP"
+    },
+    {
+        "id_group": 3,
+        "company_name": "CTCP Nhiệt điện Ninh Bình - HNX",
+        "stock_code": "NBP"
+    },
+    {
+        "id_group": 3,
+        "company_name": "CTCP Đầu tư và Phát triển Điện Miền Bắc 2 - UPCOM",
+        "stock_code": "ND2"
+    },
+    {
+        "id_group": 3,
+        "company_name": "CTCP Đầu tư và Phát triển Điện Tây Bắc - UPCOM",
+        "stock_code": "NED"
+    },
+    {
+        "id_group": 3,
+        "company_name": "CTCP Điện lực Dầu khí Nhơn Trạch 2 - HOSE",
+        "stock_code": "NT2"
+    },
+    {
+        "id_group": 3,
+        "company_name": "CTCP thủy điện Nước Trong - HNX",
+        "stock_code": "NTH"
+    },
+    {
+        "id_group": 3,
+        "company_name": "CTCP Tập đoàn PC1 - HOSE",
+        "stock_code": "PC1"
+    },
+    {
+        "id_group": 3,
+        "company_name": "Tổng Công ty Phát điện 3 – CTCP - UPCOM",
+        "stock_code": "PGV"
+    },
+    {
+        "id_group": 3,
+        "company_name": "CTCP Đầu tư Điện lực 3 - HNX",
+        "stock_code": "PIC"
+    },
+    {
+        "id_group": 3,
+        "company_name": "Tổng Công ty Điện lực Dầu khí Việt Nam – CTCP - HOSE",
+        "stock_code": "POW"
+    },
+    {
+        "id_group": 3,
+        "company_name": "CTCP Nhiệt điện Phả Lại - HOSE",
+        "stock_code": "PPC"
+    },
+    {
+        "id_group": 3,
+        "company_name": "CTCP Thủy điện Quế Phong- UPCOM",
+        "stock_code": "QPH"
+    },
+    {
+        "id_group": 3,
+        "company_name": "CTCP Nhiệt điện Quảng Ninh - UPCOM",
+        "stock_code": "QTP"
+    },
+    {
+        "id_group": 3,
+        "company_name": "CTCP Thủy điện Sê San 4A - HOSE",
+        "stock_code": "S4A"
+    },
+    {
+        "id_group": 3,
+        "company_name": "CTCP Sông Ba - HOSE",
+        "stock_code": "SBA"
+    },
+    {
+        "id_group": 3,
+        "company_name": "CTCP Thủy điện Sông Ba Hạ - UPCOM",
+        "stock_code": "SBH"
+    },
+    {
+        "id_group": 3,
+        "company_name": "CTCP Đầu tư Phát triển Bắc Minh - UPCOM",
+        "stock_code": "SBM"
+    },
+    {
+        "id_group": 3,
+        "company_name": "CTCP Đầu tư và Phát triển Điện miền Trung - HNX",
+        "stock_code": "SEB"
+    },
+    {
+        "id_group": 3,
+        "company_name": "CTCP Thủy điện Miền Nam - HOSE",
+        "stock_code": "SHP"
+    },
+    {
+        "id_group": 3,
+        "company_name": "CTCP Thủy điện Cần Đơn - HOSE",
+        "stock_code": "SJD"
+    },
+    {
+        "id_group": 3,
+        "company_name": "CTCP Thủy điện Sử Pán 2 - UPCOM",
+        "stock_code": "SP2"
+    },
+    {
+        "id_group": 3,
+        "company_name": "CTCP Thủy điện Sông Vàng - UPCOM",
+        "stock_code": "SVH"
+    },
+    {
+        "id_group": 3,
+        "company_name": "CTCP Thủy điện Thác Bà - HOSE",
+        "stock_code": "TBC"
+    },
+    {
+        "id_group": 3,
+        "company_name": "Tổng Công ty Thiết bị Điện Đông Anh – CTCP - UPCOM",
+        "stock_code": "TBD"
+    },
+    {
+        "id_group": 3,
+        "company_name": "CTCP Thủy điện Định Bình - UPCOM",
+        "stock_code": "TDB"
+    },
+    {
+        "id_group": 3,
+        "company_name": "CTCP Đầu tư Điện Tây Nguyên - HOSE",
+        "stock_code": "TIC"
+    },
+    {
+        "id_group": 3,
+        "company_name": "CTCP Thủy điện Thác Mơ - HOSE",
+        "stock_code": "TMP"
+    },
+    {
+        "id_group": 3,
+        "company_name": "CTCP Đầu tư Xây dựng và Phát triển Trường Thành - HSX",
+        "stock_code": "TTA"
+    },
+    {
+        "id_group": 3,
+        "company_name": "CTCP Đầu tư Năng lượng Trường Thịnh - HOSE",
+        "stock_code": "TTE"
+    },
+    {
+        "id_group": 3,
+        "company_name": "CTCP Tư vấn Xây dựng Điện 2 - HOSE",
+        "stock_code": "TV2"
+    },
+    {
+        "id_group": 3,
+        "company_name": "CTCP Xây dựng và Năng lượng VCP - HOSE",
+        "stock_code": "VCP"
+    },
+    {
+        "id_group": 3,
+        "company_name": "Tổng CTCP Xây dựng điện Việt Nam - HOSE",
+        "stock_code": "VNE"
+    },
+    {
+        "id_group": 3,
+        "company_name": "CTCP Phát triển Điện lực Việt Nam - HSX",
+        "stock_code": "VPD"
+    },
+    {
+        "id_group": 3,
+        "company_name": "CTCP Thủy điện Vĩnh Sơn – Sông Hinh - HOSE",
+        "stock_code": "VSH"
+    },
+    {
+        "id_group": 4,
+        "company_name": "CTCP Tập đoàn Dầu khí An Pha - HOSE",
+        "stock_code": "ASP"
+    },
+    {
+        "id_group": 4,
+        "company_name": "CTCP Lọc Hóa dầu Bình Sơn - UPCOM",
+        "stock_code": "BSR"
+    },
+    {
+        "id_group": 4,
+        "company_name": "CTCP CNG Việt Nam - HOSE",
+        "stock_code": "CNG"
+    },
+    {
+        "id_group": 4,
+        "company_name": "Tổng Công ty Khí Việt Nam-CTCP - HOSE",
+        "stock_code": "GAS"
+    },
+    {
+        "id_group": 4,
+        "company_name": "CTCP Vận tải Sản phẩm Khí Quốc tế",
+        "stock_code": "GSP"
+    },
+    {
+        "id_group": 4,
+        "company_name": "CTCP Xăng dầu HFC - UPCOM",
+        "stock_code": "HFC"
+    },
+    {
+        "id_group": 4,
+        "company_name": "Tổng Công ty Dầu Việt Nam – CTCP - UPCOM",
+        "stock_code": "OIL"
+    },
+    {
+        "id_group": 4,
+        "company_name": "CTCP Điện lực Dầu khí Bắc Kạn - UPCOM",
+        "stock_code": "PBK"
+    },
+    {
+        "id_group": 4,
+        "company_name": "CTCP Đầu tư và Phát triển Gas Đô Thị - HNX",
+        "stock_code": "PCG"
+    },
+    {
+        "id_group": 4,
+        "company_name": "Công ty TNHH MTV Thương mại Dầu khí Đồng Tháp - UPCOM",
+        "stock_code": "PDT"
+    },
+    {
+        "id_group": 4,
+        "company_name": "CTCP Vận tải dầu Phương Đông Việt - UPCOM",
+        "stock_code": "PDV"
+    },
+    {
+        "id_group": 4,
+        "company_name": "Tổng Công ty Thương mại Kỹ thuật và Đầu tư – CTCP - UPCOM",
+        "stock_code": "PEG"
+    },
+    {
+        "id_group": 4,
+        "company_name": "CTCP Thiết bị Xăng dầu Petrolimex - UPCOM",
+        "stock_code": "PEQ"
+    },
+    {
+        "id_group": 4,
+        "company_name": "Tổng Công ty Gas Petrolimex-CTCP - HOSE",
+        "stock_code": "PGC"
+    },
+    {
+        "id_group": 4,
+        "company_name": "CTCP Phân phối Khí thấp áp Dầu khí Việt Nam - HOSE",
+        "stock_code": "PGD"
+    },
+    {
+        "id_group": 4,
+        "company_name": "CTCP Kinh doanh Khí Miền Nam - HNX",
+        "stock_code": "PGS"
+    },
+    {
+        "id_group": 4,
+        "company_name": "CTCP Thương mại và Vận tải Petrolimex Hà Nội - HNX",
+        "stock_code": "PJC"
+    },
+    {
+        "id_group": 4,
+        "company_name": "Tổng Công ty Hóa dầu Petrolimex – CTCP",
+        "stock_code": "PLC"
+    },
+    {
+        "id_group": 4,
+        "company_name": "Tập đoàn Xăng dầu Việt Nam - HOSE",
+        "stock_code": "PLX"
+    },
+    {
+        "id_group": 4,
+        "company_name": "CTCP Đầu tư và Sản xuất Petro Miền Trung - HOSE",
+        "stock_code": "PMG"
+    },
+    {
+        "id_group": 4,
+        "company_name": "CTCP Xăng dầu Dầu khí Thái Bình - UPCOM",
+        "stock_code": "POB"
+    },
+    {
+        "id_group": 4,
+        "company_name": "CTCP Dịch vụ Lắp đặt, Vận hành và Bảo dưỡng Công trình Dầu khí biển PTSC - UPCOM",
+        "stock_code": "POS"
+    },
+    {
+        "id_group": 4,
+        "company_name": "CTCP Xăng dầu Dầu khí Vũng Áng - UPCOM",
+        "stock_code": "POV"
+    },
+    {
+        "id_group": 4,
+        "company_name": "CTCP Petro Times - HNX",
+        "stock_code": "PPT"
+    },
+    {
+        "id_group": 4,
+        "company_name": "CTCP Xăng dầu Dầu khí Phú Yên - HNX",
+        "stock_code": "PPY"
+    },
+    {
+        "id_group": 4,
+        "company_name": "CTCP Dịch vụ Dầu khí Quảng Ngãi PTSC - UPCOM",
+        "stock_code": "PQN"
+    },
+    {
+        "id_group": 4,
+        "company_name": "CTCP Vận tải và Dịch vụ Petrolimex Sài Gòn - HNX",
+        "stock_code": "PSC"
+    },
+    {
+        "id_group": 4,
+        "company_name": "CTCP Thương mại Đầu tư Dầu khí Nam Sông Hậu - HSX",
+        "stock_code": "PSH"
+    },
+    {
+        "id_group": 4,
+        "company_name": "CTCP Cảng dịch vụ Dầu khí Tổng hợp PTSC Thanh Hóa - UPCOM",
+        "stock_code": "PSN"
+    },
+    {
+        "id_group": 4,
+        "company_name": "CTCP Vận tải và Dịch vụ Petrolimex Hà Tây - UPCOM",
+        "stock_code": "PTH"
+    },
+    {
+        "id_group": 4,
+        "company_name": "CTCP Vận tải và Dịch vụ Petrolimex Hải Phòng - HNX",
+        "stock_code": "PTS"
+    },
+    {
+        "id_group": 4,
+        "company_name": "CTCP Vận tải Dầu khí Đông Dương - UPCOM",
+        "stock_code": "PTT"
+    },
+    {
+        "id_group": 4,
+        "company_name": "CTCP Thương mại Dầu khí - UPCOM",
+        "stock_code": "PTV"
+    },
+    {
+        "id_group": 4,
+        "company_name": "CTCP Vận tải và Dịch vụ Petrolimex Nghệ Tĩnh - UPCOM",
+        "stock_code": "PTX"
+    },
+    {
+        "id_group": 4,
+        "company_name": "CTCP Bọc Ống Dầu khí Việt Nam - HNX",
+        "stock_code": "PVB"
+    },
+    {
+        "id_group": 4,
+        "company_name": "Tổng Công ty Hóa chất và Dịch vụ Dầu khí – CTCP (PVChem)",
+        "stock_code": "PVC"
+    },
+    {
+        "id_group": 4,
+        "company_name": "Tổng CTCP Khoan và Dịch vụ Khoan Dầu khí - HOSE",
+        "stock_code": "PVD"
+    },
+    {
+        "id_group": 4,
+        "company_name": "Tổng Công ty Tư vấn thiết kế Dầu khí - UPCOM",
+        "stock_code": "PVE"
+    },
+    {
+        "id_group": 4,
+        "company_name": "CTCP Kinh doanh LPG Việt Nam - HNX",
+        "stock_code": "PVG"
+    },
+    {
+        "id_group": 4,
+        "company_name": "CTCP Máy – Thiết bị Dầu khí - UPCOM",
+        "stock_code": "PVM"
+    },
+    {
+        "id_group": 4,
+        "company_name": "CTCP Vận tải dầu khí Thái Bình Dương - UPCOM",
+        "stock_code": "PVP"
+    },
+    {
+        "id_group": 4,
+        "company_name": "Tổng CTCP Dịch vụ Kỹ thuật Dầu khí Việt Nam - HNX",
+        "stock_code": "PVS"
+    },
+    {
+        "id_group": 4,
+        "company_name": "Tổng CTCP Vận tải Dầu khí - HOSE",
+        "stock_code": "PVT"
+    },
+    {
+        "id_group": 4,
+        "company_name": "CTCP Phát triển năng lượng Sơn Hà - HNX",
+        "stock_code": "SHE"
+    },
+    {
+        "id_group": 4,
+        "company_name": "CTCP Đầu tư TDG GLOBAL - HSX",
+        "stock_code": "TDG"
+    },
+    {
+        "id_group": 4,
+        "company_name": "CTCP Dịch vụ biển Tân Cảng - UPCOM",
+        "stock_code": "TOS"
+    },
+    {
+        "id_group": 4,
+        "company_name": "CTCP Thương mại và Dịch vụ Dầu khí Vũng Tàu - UPCOM",
+        "stock_code": "VMG"
+    },
+    {
+        "id_group": 4,
+        "company_name": "CTCP Vận tải Xăng dầu VITACO - HOSE",
+        "stock_code": "VTO"
+    },
+    {
+        "id_group": 5,
+        "company_name": "CTCP Suất ăn Công nghiệp Atesco- UPCOM",
+        "stock_code": "ATS"
+    },
+    {
+        "id_group": 5,
+        "company_name": "CTCP Du lịch & Thương mại Bằng Giang Cao Bằng- UPCOM",
+        "stock_code": "BCV"
+    },
+    {
+        "id_group": 5,
+        "company_name": "CTCP Vận tải Dịch vụ LIên Ninh - UPCOM",
+        "stock_code": "BLN"
+    },
+    {
+        "id_group": 5,
+        "company_name": "CTCP Dịch vụ Đô thị Bà Rịa- UPCOM",
+        "stock_code": "BRS"
+    },
+    {
+        "id_group": 5,
+        "company_name": "CTCP Dịch vụ Bến Thành- UPCOM",
+        "stock_code": "BSC"
+    },
+    {
+        "id_group": 5,
+        "company_name": "CTCP Xe khách Sài Gòn - UPCOM",
+        "stock_code": "BSG"
+    },
+    {
+        "id_group": 5,
+        "company_name": "CTCP Dịch vụ Du lịch Bến Thành- UPCOM",
+        "stock_code": "BTV"
+    },
+    {
+        "id_group": 5,
+        "company_name": "CTCP CMVIETNAM- HNX",
+        "stock_code": "CMS"
+    },
+    {
+        "id_group": 5,
+        "company_name": "CTCP Phục vụ Mai táng Hải Phòng- UPCOM",
+        "stock_code": "CPH"
+    },
+    {
+        "id_group": 5,
+        "company_name": "CTCP Gia Lai CTC",
+        "stock_code": "CTC"
+    },
+    {
+        "id_group": 5,
+        "company_name": "CTCP Xe khách Hà Nội",
+        "stock_code": "CXH"
+    },
+    {
+        "id_group": 5,
+        "company_name": "CTCP Tập đoàn Khách sạn Đông Á",
+        "stock_code": "DAH"
+    },
+    {
+        "id_group": 5,
+        "company_name": "CTCP Xe lửa Dĩ An",
+        "stock_code": "DAR"
+    },
+    {
+        "id_group": 5,
+        "company_name": "CTCP Đường bộ Hải Phòng",
+        "stock_code": "DBH"
+    },
+    {
+        "id_group": 5,
+        "company_name": "CTCP Tập đoàn Năng lượng Tái tạo Việt Nam",
+        "stock_code": "DL1"
+    },
+    {
+        "id_group": 5,
+        "company_name": "CTCP Du lịch Đắk Lắk",
+        "stock_code": "DLD"
+    },
+    {
+        "id_group": 5,
+        "company_name": "CTCP Du lịch và Thương mại – Vinacomin",
+        "stock_code": "DLT"
+    },
+    {
+        "id_group": 5,
+        "company_name": "CTCP Du lịch Đồng Nai",
+        "stock_code": "DNT"
+    },
+    {
+        "id_group": 5,
+        "company_name": "CTCP Công viên nước Đầm Sen",
+        "stock_code": "DSN"
+    },
+    {
+        "id_group": 5,
+        "company_name": "CTCP Dịch vụ Du lịch Phú Thọ",
+        "stock_code": "DSP"
+    },
+    {
+        "id_group": 5,
+        "company_name": "CTCP Đầu tư Đức Trung - UPCOM",
+        "stock_code": "DTI"
+    },
+    {
+        "id_group": 5,
+        "company_name": "CTCP Du Lịch và Xuất nhập khẩu Lạng Sơn",
+        "stock_code": "DXL"
+    },
+    {
+        "id_group": 5,
+        "company_name": "CTCP Đầu tư – Thương mại – Dịch vụ Điện Lực",
+        "stock_code": "EIN"
+    },
+    {
+        "id_group": 5,
+        "company_name": "CTCP Thuận Thảo - UPCOM",
+        "stock_code": "GTT"
+    },
+    {
+        "id_group": 5,
+        "company_name": "CTCP Dịch vụ Ô tô Hàng Xanh",
+        "stock_code": "HAX"
+    },
+    {
+        "id_group": 5,
+        "company_name": "CTCP Dịch vụ Giải trí Hà Nội",
+        "stock_code": "HES"
+    },
+    {
+        "id_group": 5,
+        "company_name": "CTCP Hoàng Hà - HNX",
+        "stock_code": "HHG"
+    },
+    {
+        "id_group": 5,
+        "company_name": "CTCP Xe điện Hà Nội",
+        "stock_code": "HNT"
+    },
+    {
+        "id_group": 5,
+        "company_name": "CTCP Du lịch Dịch vụ Hội An",
+        "stock_code": "HOT"
+    },
+    {
+        "id_group": 5,
+        "company_name": "CTCP Vận tải đường sắt Hà Nội - UPCOM",
+        "stock_code": "HRT"
+    },
+    {
+        "id_group": 5,
+        "company_name": "Tổng Công ty Hàng không Việt Nam Vietnam Airlines",
+        "stock_code": "HVN"
+    },
+    {
+        "id_group": 5,
+        "company_name": "CTCP Đầu tư Thương mại và Xuất nhập khẩu CFS - HNX",
+        "stock_code": "KLF"
+    },
+    {
+        "id_group": 5,
+        "company_name": "CTCP Thương mại Kiên Giang - UPCOM",
+        "stock_code": "KTC"
+    },
+    {
+        "id_group": 5,
+        "company_name": "CTCP Dịch vụ hàng không sân bay Đà Nẵng - HNX",
+        "stock_code": "MAS"
+    },
+    {
+        "id_group": 5,
+        "company_name": "CTCP Dịch vụ Du lịch Mỹ Trà",
+        "stock_code": "MTC"
+    },
+    {
+        "id_group": 5,
+        "company_name": "CTCP Môi trường và Dịch vụ Đô Thị Vĩnh Yên",
+        "stock_code": "MVY"
+    },
+    {
+        "id_group": 5,
+        "company_name": "CTCP Bất động sản Du lịch Ninh Vân Bay",
+        "stock_code": "NVT"
+    },
+    {
+        "id_group": 5,
+        "company_name": "CTCP Vận tải Newway - UPCOM",
+        "stock_code": "NWT"
+    },
+    {
+        "id_group": 5,
+        "company_name": "CTCP Khách sạn và Dịch vụ OCH",
+        "stock_code": "OCH"
+    },
+    {
+        "id_group": 5,
+        "company_name": "CTCP Dịch vụ Một Thế Giới - UPCOM",
+        "stock_code": "ONW"
+    },
+    {
+        "id_group": 5,
+        "company_name": "CTCP Tập đoàn Pan",
+        "stock_code": "PAN"
+    },
+    {
+        "id_group": 5,
+        "company_name": "CTCP Du lịch Dầu khí Phương Đông",
+        "stock_code": "PDC"
+    },
+    {
+        "id_group": 5,
+        "company_name": "CTCP PGT Holdings - HNX",
+        "stock_code": "PGT"
+    },
+    {
+        "id_group": 5,
+        "company_name": "CTCP QUốc tế Hoàng Gia - HOSE",
+        "stock_code": "RIC"
+    },
+    {
+        "id_group": 5,
+        "company_name": "CTCP Dịch vụ hàng hóa Sài Gòn - HOSE",
+        "stock_code": "SCS"
+    },
+    {
+        "id_group": 5,
+        "company_name": "CTCP Khách sạn Sài Gòn",
+        "stock_code": "SGH"
+    },
+    {
+        "id_group": 5,
+        "company_name": "CTCP Sài Gòn Hỏa xa - UPCOM",
+        "stock_code": "SHX"
+    },
+    {
+        "id_group": 5,
+        "company_name": "CTCP Tàu cao tốc Superdong – Kiên Giang",
+        "stock_code": "SKG"
+    },
+    {
+        "id_group": 5,
+        "company_name": "CTCP Vận tải Đường sắt Sài Gòn - UPCOM",
+        "stock_code": "SRT"
+    },
+    {
+        "id_group": 5,
+        "company_name": "CTCP Vận chuyển Sài Gòn Tourist - UPCOM",
+        "stock_code": "STT"
+    },
+    {
+        "id_group": 5,
+        "company_name": "CTCP Cáp treo Núi Bà Tây Ninh",
+        "stock_code": "TCT"
+    },
+    {
+        "id_group": 5,
+        "company_name": "CTCP Bến bãi Vận tải Sài Gòn - UPCOM",
+        "stock_code": "TPS"
+    },
+    {
+        "id_group": 5,
+        "company_name": "CTCP Vận tải 1 Traco - UPCOM",
+        "stock_code": "TR1"
+    },
+    {
+        "id_group": 5,
+        "company_name": "CTCP Du lịch Trường Sơn Coecco - UPCOM",
+        "stock_code": "TSD"
+    },
+    {
+        "id_group": 5,
+        "company_name": "CTCP Du lịch Dịch vụ Hà Nội - UPCOM",
+        "stock_code": "TSJ"
+    },
+    {
+        "id_group": 5,
+        "company_name": "CTCP Du lịch - Thương mại Tây Ninh - HNX",
+        "stock_code": "TTT"
+    },
+    {
+        "id_group": 5,
+        "company_name": "CTCP Nhân lực và Thương mại Vinaconex",
+        "stock_code": "VCM"
+    },
+    {
+        "id_group": 5,
+        "company_name": "CTCP Trung tâm Hội chợ Triển lãm Việt Nam",
+        "stock_code": "VEF"
+    },
+    {
+        "id_group": 5,
+        "company_name": "CTCP Du lịch Quốc tế Vũng Tàu",
+        "stock_code": "VIR"
+    },
+    {
+        "id_group": 5,
+        "company_name": "CTCP Hàng không Vietjet",
+        "stock_code": "VJC"
+    },
+    {
+        "id_group": 5,
+        "company_name": "CTCP Du lịch Thành Thành Công",
+        "stock_code": "VNG"
+    },
+    {
+        "id_group": 5,
+        "company_name": "CTCP Ánh Dương Việt Nam",
+        "stock_code": "VNS"
+    },
+    {
+        "id_group": 5,
+        "company_name": "CTCP Du lịch Vietourist - UPCOM",
+        "stock_code": "VTD"
+    },
+    {
+        "id_group": 5,
+        "company_name": "CTCP Du lịch Tỉnh Bà Rịa – Vũng Tàu - HOSE",
+        "stock_code": "VTG"
+    },
+    {
+        "id_group": 5,
+        "company_name": "CTCP Vận tải và đưa đón thợ mỏ - Vinacomin - UPCOM",
+        "stock_code": "VTM"
+    },
+    {
+        "id_group": 5,
+        "company_name": "CTCP Du lịch và tiếp thị giao thông vận tải Việt Nam - UPCOM",
+        "stock_code": "VTR"
+    },
+    {
+        "id_group": 6,
+        "company_name": "CTCP Tiên Sơn Thanh Hóa",
+        "stock_code": "AAT"
+    },
+    {
+        "id_group": 6,
+        "company_name": "CTCP Đầu tư Nhãn Hiệu Việt",
+        "stock_code": "ABR"
+    },
+    {
+        "id_group": 6,
+        "company_name": "CTCP Đầu tư và Khoáng sản FLC STONE",
+        "stock_code": "AMD"
+    },
+    {
+        "id_group": 6,
+        "company_name": "CTCP Dịch vụ Hàng không Taseco",
+        "stock_code": "AST"
+    },
+    {
+        "id_group": 6,
+        "company_name": "CTCP Thương mại – Dịch vụ Bến Thành - HSX",
+        "stock_code": "BTT"
+    },
+    {
+        "id_group": 6,
+        "company_name": "CTCP Xuất nhập khẩu và đầu tư Chợ Lớn (Cholimex)",
+        "stock_code": "CLX"
+    },
+    {
+        "id_group": 6,
+        "company_name": "CTCP Thương nghiệp Cà Mau - HSX",
+        "stock_code": "CMV"
+    },
+    {
+        "id_group": 6,
+        "company_name": "CTCP Vật tư – Xăng dầu",
+        "stock_code": "COM"
+    },
+    {
+        "id_group": 6,
+        "company_name": "CTCP City Auto - HSX",
+        "stock_code": "CTF"
+    },
+    {
+        "id_group": 6,
+        "company_name": "CTCP Thế giới số - HSX",
+        "stock_code": "DGW"
+    },
+    {
+        "id_group": 6,
+        "company_name": "CTCP Bán lẻ Kỹ thuật số FPT - HSX",
+        "stock_code": "FRT"
+    },
+    {
+        "id_group": 6,
+        "company_name": "CTCP Petec Bình Định",
+        "stock_code": "GCB"
+    },
+    {
+        "id_group": 6,
+        "company_name": "CTCP Sản xuất – Xuất nhập khẩu Thanh Hà",
+        "stock_code": "HFX"
+    },
+    {
+        "id_group": 6,
+        "company_name": "CTCP Thương mại Hóc Môn",
+        "stock_code": "HTC"
+    },
+    {
+        "id_group": 6,
+        "company_name": "CTCP Thương mại – Đầu tư Long Biên",
+        "stock_code": "LBC"
+    },
+    {
+        "id_group": 6,
+        "company_name": "CTCP Landmark Holding",
+        "stock_code": "LMH"
+    },
+    {
+        "id_group": 6,
+        "company_name": "CTCP Tập đoàn Masan - HSX",
+        "stock_code": "MSN"
+    },
+    {
+        "id_group": 6,
+        "company_name": "CTCP Đầu tư Thế giới Di động - HSX",
+        "stock_code": "MWG"
+    },
+    {
+        "id_group": 6,
+        "company_name": "Tổng CTCP Dịch vụ Tổng hợp Dầu khí",
+        "stock_code": "PET"
+    },
+    {
+        "id_group": 6,
+        "company_name": "CTCP Xuất nhập khẩu Petrolimex",
+        "stock_code": "PIT"
+    },
+    {
+        "id_group": 6,
+        "company_name": "CTCP PIV",
+        "stock_code": "PIV"
+    },
+    {
+        "id_group": 6,
+        "company_name": "CTCP Thương mại Phú Nhuận",
+        "stock_code": "PNG"
+    },
+    {
+        "id_group": 6,
+        "company_name": "CTCP Vàng bạc Đá quý Phú Nhuận - HSX",
+        "stock_code": "PNJ"
+    },
+    {
+        "id_group": 6,
+        "company_name": "CTCP Dịch vụ Phân phối Tổng hợp Dầu khí",
+        "stock_code": "PSD"
+    },
+    {
+        "id_group": 6,
+        "company_name": "CTCP Nhiên liệu Sài Gòn",
+        "stock_code": "SFC"
+    },
+    {
+        "id_group": 6,
+        "company_name": "CTCP Đầu tư Phát triển Sài Gòn Co.op",
+        "stock_code": "SID"
+    },
+    {
+        "id_group": 6,
+        "company_name": "CTCP Siêu Thanh",
+        "stock_code": "ST8"
+    },
+    {
+        "id_group": 6,
+        "company_name": "CTCP Thương mại dịch vụ Tràng Thi",
+        "stock_code": "T12"
+    },
+    {
+        "id_group": 6,
+        "company_name": "CTCP Xuất nhập khẩu Tổng hợp I Việt Nam",
+        "stock_code": "TH1"
+    },
+    {
+        "id_group": 6,
+        "company_name": "CTCP Thanh Hoa – Sông Đà",
+        "stock_code": "THS"
+    },
+    {
+        "id_group": 6,
+        "company_name": "CTCP Thương Mại Xuất Nhập Khẩu Thủ Đức",
+        "stock_code": "TMC"
+    },
+    {
+        "id_group": 6,
+        "company_name": "CTCP Phân phối Top One",
+        "stock_code": "TOP"
+    },
+    {
+        "id_group": 6,
+        "company_name": "CTCP Thương mại và Đầu tư Vi na ta ba",
+        "stock_code": "VTJ"
+    },
+    {
+        "id_group": 6,
+        "company_name": "CTCP Hàng tiêu dùng Masan - UPCOM",
+        "stock_code": "MCH"
+    },
+    {
+        "id_group": 7,
+        "company_name": "CTCP Xây dựng 47 - HSX",
+        "stock_code": "C47"
+    },
+    {
+        "id_group": 7,
+        "company_name": "CTCP Tập đoàn CIENCO4 - UPCOM",
+        "stock_code": "C4G"
+    },
+    {
+        "id_group": 7,
+        "company_name": "CTCP Đầu tư Hạ tầng Kỹ thuật Thành phố Hồ Chí Minh - HSX",
+        "stock_code": "CII"
+    },
+    {
+        "id_group": 7,
+        "company_name": "CTCP Xây dựng COTECCONS - HSX",
+        "stock_code": "CTD"
+    },
+    {
+        "id_group": 7,
+        "company_name": "CTCP Đầu tư Phát triển Cường Thuận IDICO - HSX",
+        "stock_code": "CTI"
+    },
+    {
+        "id_group": 7,
+        "company_name": "Tổng CTCP Công trình Viettel - HSX",
+        "stock_code": "CTR"
+    },
+    {
+        "id_group": 7,
+        "company_name": "CTCP Tập đoàn Đạt Phương - HSX",
+        "stock_code": "DPG"
+    },
+    {
+        "id_group": 7,
+        "company_name": "CTCP Tập đoàn Everland - HSX",
+        "stock_code": "EVG"
+    },
+    {
+        "id_group": 7,
+        "company_name": "CTCP FECON - HSX",
+        "stock_code": "FCN"
+    },
+    {
+        "id_group": 7,
+        "company_name": "Tổng CTCP G36 - UPCOM",
+        "stock_code": "G36"
+    },
+    {
+        "id_group": 7,
+        "company_name": "CTCP Tập đoàn Xây dựng Hòa Bình - HSX",
+        "stock_code": "HBC"
+    },
+    {
+        "id_group": 7,
+        "company_name": "CTCP Đầu tư Hạ tầng Giao thông Đèo Cả - HSX",
+        "stock_code": "HHV"
+    },
+    {
+        "id_group": 7,
+        "company_name": "CTCP Hưng Thịnh Incons - HSX",
+        "stock_code": "HTN"
+    },
+    {
+        "id_group": 7,
+        "company_name": "CTCP Xây lắp Thừa Thiên Huế - HSX",
+        "stock_code": "HUB"
+    },
+    {
+        "id_group": 7,
+        "company_name": "CTCP Tasco - HNX",
+        "stock_code": "HUT"
+    },
+    {
+        "id_group": 7,
+        "company_name": "CTCP Licogi 16 - HSX",
+        "stock_code": "LCG"
+    },
+    {
+        "id_group": 7,
+        "company_name": "CTCP Đầu tư MST - HNX",
+        "stock_code": "MST"
+    },
+    {
+        "id_group": 7,
+        "company_name": "CTCP Tập đoàn đầu tư Din Capital - HNX",
+        "stock_code": "PDB"
+    },
+    {
+        "id_group": 7,
+        "company_name": "CTCP Xây dựng FLC FAROS - HSX",
+        "stock_code": "ROS"
+    },
+    {
+        "id_group": 7,
+        "company_name": "CTCP SCI - HNX",
+        "stock_code": "S99"
+    },
+    {
+        "id_group": 7,
+        "company_name": "CTCP SCI E&C - HNX",
+        "stock_code": "SCI"
+    },
+    {
+        "id_group": 7,
+        "company_name": "CTCP Xây dựng số 9 - HNX",
+        "stock_code": "VC9"
+    },
+    {
+        "id_group": 7,
+        "company_name": "Tổng CTCP Xuất nhập khẩu và Xây dựng Việt Nam - HSX",
+        "stock_code": "VCG"
+    },
+    {
+        "id_group": 8,
+        "company_name": "Cổ phiếu của CTCP Group Bắc Việt",
+        "stock_code": "BVG"
+    },
+    {
+        "id_group": 8,
+        "company_name": "Cổ phiếu của CTCP Thép Đà Nẵng",
+        "stock_code": "DNS"
+    },
+    {
+        "id_group": 8,
+        "company_name": "CTCP Thép DANA – Ý",
+        "stock_code": "DNY"
+    },
+    {
+        "id_group": 8,
+        "company_name": "CTCP Đại Thiên Lộc",
+        "stock_code": "DTL"
+    },
+    {
+        "id_group": 8,
+        "company_name": "CTCP Hữu Liên Á Châu",
+        "stock_code": "HLA"
+    },
+    {
+        "id_group": 8,
+        "company_name": "CTCP Kim khí Thành phố Hồ Chí Minh – Vnstee",
+        "stock_code": "HMC"
+    },
+    {
+        "id_group": 8,
+        "company_name": "Cổ phiếu thép Hòa Phát",
+        "stock_code": "HPG"
+    },
+    {
+        "id_group": 8,
+        "company_name": "Cổ phiếu thép Hoa Sen",
+        "stock_code": "HSG"
+    },
+    {
+        "id_group": 8,
+        "company_name": "CTCP gang thép Hà Nội",
+        "stock_code": "HSV"
+    },
+    {
+        "id_group": 8,
+        "company_name": "CTCP Kim Khí KKC",
+        "stock_code": "KKC"
+    },
+    {
+        "id_group": 8,
+        "company_name": "CTCP Kim khí Miền Trung",
+        "stock_code": "KMT"
+    },
+    {
+        "id_group": 8,
+        "company_name": "CTCP Thép Mê Lin",
+        "stock_code": "MEL"
+    },
+    {
+        "id_group": 8,
+        "company_name": "CTCP Vật tư TKV",
+        "stock_code": "MTS"
+    },
+    {
+        "id_group": 8,
+        "company_name": "Cổ phiếu thép Nam Kim",
+        "stock_code": "NKG"
+    },
+    {
+        "id_group": 8,
+        "company_name": "Cổ phiếu Thép Pomina",
+        "stock_code": "POM"
+    },
+    {
+        "id_group": 8,
+        "company_name": "CTCP Đầu tư Thương mại SMC",
+        "stock_code": "SMC"
+    },
+    {
+        "id_group": 8,
+        "company_name": "Cổ phiếu của CTCP Chế tạo kết cấu Thép Vneco SSM",
+        "stock_code": "SSM"
+    },
+    {
+        "id_group": 8,
+        "company_name": "CTCP Thép Thủ Đức",
+        "stock_code": "TDS"
+    },
+    {
+        "id_group": 8,
+        "company_name": "Cổ phiếu gang thép Thái Nguyên",
+        "stock_code": "TIS"
+    },
+    {
+        "id_group": 8,
+        "company_name": "Cổ phiếu thép Tiến Lên",
+        "stock_code": "TLH"
+    },
+    {
+        "id_group": 8,
+        "company_name": "CTCP Thép Nhà Bè – VNSTEEL",
+        "stock_code": "TNB"
+    },
+    {
+        "id_group": 8,
+        "company_name": "Cổ phiếu của CTCP Thép tấm lá Thống Nhất",
+        "stock_code": "TNS"
+    },
+    {
+        "id_group": 8,
+        "company_name": "CTCP Cán Thép Thái Trung",
+        "stock_code": "TTS"
+    },
+    {
+        "id_group": 8,
+        "company_name": "Cổ phiếu tổng công ty thép Việt Nam",
+        "stock_code": "TVN"
+    },
+    {
+        "id_group": 8,
+        "company_name": "CTCP Thép VICASA – VNSTEEL",
+        "stock_code": "VCA"
+    },
+    {
+        "id_group": 8,
+        "company_name": "Cổ phiếu của CTCP Lưới thép Bình Tây",
+        "stock_code": "VDT"
+    },
+    {
+        "id_group": 8,
+        "company_name": "CTCP Đầu tư và Xây dựng Điện Mêca Vneco",
+        "stock_code": "VES"
+    },
+    {
+        "id_group": 8,
+        "company_name": "Cổ phiếu thép Việt Đức",
+        "stock_code": "VGS"
+    },
+    {
+        "id_group": 8,
+        "company_name": "Cổ phiếu thép Việt Ý",
+        "stock_code": "VIS"
+    },
+    {
+        "id_group": 9,
+        "company_name": "Tổng Công ty Cảng Hàng không Việt Nam - UPCOM",
+        "stock_code": "ACV"
+    },
+    {
+        "id_group": 9,
+        "company_name": "CTCP Xuất nhập khẩu Hàng không",
+        "stock_code": "ARM"
+    },
+    {
+        "id_group": 9,
+        "company_name": "ctcp Dịch vụ Bưu chính Interserco - IPX",
+        "stock_code": "ASG"
+    },
+    {
+        "id_group": 9,
+        "company_name": "CTCP Dịch vụ Sân bay Quốc tế Cam Ranh",
+        "stock_code": "CIA"
+    },
+    {
+        "id_group": 9,
+        "company_name": "CTCP Dịch vụ Hàng không Sân bay Nội Bài - UPCOM",
+        "stock_code": "NAS"
+    },
+    {
+        "id_group": 9,
+        "company_name": "CTCP Suất ăn Hàng không Nội Bài - UPCOM",
+        "stock_code": "NCS"
+    },
+    {
+        "id_group": 9,
+        "company_name": "CTCP Dịch vụ Hàng hóa Nội Bài - HOSE",
+        "stock_code": "NCT"
+    },
+    {
+        "id_group": 9,
+        "company_name": "CTCP Dịch vụ Hàng không Sân bay Tân Sơn Nhất - UPCOM",
+        "stock_code": "SAS"
+    },
+    {
+        "id_group": 9,
+        "company_name": "CTCP Phục vụ Mặt đất Sài Gòn - HOSE",
+        "stock_code": "SGN"
+    },
+    {
+        "id_group": 10,
+        "company_name": "CTCP Sản xuất Kinh doanh Dược và Trang thiết bị Y tế Việt Mỹ",
+        "stock_code": "AMV"
+    },
+    {
+        "id_group": 10,
+        "company_name": "Công Ty Cp Dược Enlie",
+        "stock_code": "BCP"
+    },
+    {
+        "id_group": 10,
+        "company_name": "CTCP Thiết kế Công Nghiệp Hóa chất",
+        "stock_code": "CEC"
+    },
+    {
+        "id_group": 10,
+        "company_name": "CTCP Thuốc sát trùng Cần Thơ",
+        "stock_code": "CPC"
+    },
+    {
+        "id_group": 10,
+        "company_name": "CTCP Dược – Trang thiết bị Y tế Bình Định",
+        "stock_code": "DBD"
+    },
+    {
+        "id_group": 10,
+        "company_name": "CTCP Dược – Vật tư Y Tế Đăk Lăk",
+        "stock_code": "DBM"
+    },
+    {
+        "id_group": 10,
+        "company_name": "CTCP Dược phẩm Bến Tre",
+        "stock_code": "DBT"
+    },
+    {
+        "id_group": 10,
+        "company_name": "CTCP Công nghiệp Hóa chất Đà Nẵng",
+        "stock_code": "DCI"
+    },
+    {
+        "id_group": 10,
+        "company_name": "CTCP Dược phẩm Cửu Long",
+        "stock_code": "DCL"
+    },
+    {
+        "id_group": 10,
+        "company_name": "CTCP Dược và Thiết bị Y tế Đà Nẵng",
+        "stock_code": "DDN"
+    },
+    {
+        "id_group": 10,
+        "company_name": "CTCP Dược Vật tư Y tế Hải Dương",
+        "stock_code": "DHD"
+    },
+    {
+        "id_group": 10,
+        "company_name": "CTCP Dược Hậu Giang",
+        "stock_code": "DHG"
+    },
+    {
+        "id_group": 10,
+        "company_name": "CTCP Dược phẩm Hà Tây",
+        "stock_code": "DHT"
+    },
+    {
+        "id_group": 10,
+        "company_name": "CTCP Xuất nhập khẩu Y tế DOMESCO",
+        "stock_code": "DMC"
+    },
+    {
+        "id_group": 10,
+        "company_name": "Tổng CTCP Y tế DANAMECO",
+        "stock_code": "DNM"
+    },
+    {
+        "id_group": 10,
+        "company_name": "CTCP Dược phẩm Trung ương 2",
+        "stock_code": "DP2"
+    },
+    {
+        "id_group": 10,
+        "company_name": "CTCP Dược phẩm Trung ương 3",
+        "stock_code": "DP3"
+    },
+    {
+        "id_group": 10,
+        "company_name": "CTCP Dược Đồng Nai",
+        "stock_code": "DPP"
+    },
+    {
+        "id_group": 10,
+        "company_name": "CTCP Dược phẩm Tipharco",
+        "stock_code": "DTG"
+    },
+    {
+        "id_group": 10,
+        "company_name": "Tổng Công ty Dược Việt Nam – CTCP",
+        "stock_code": "DVN"
+    },
+    {
+        "id_group": 10,
+        "company_name": "CTCP Dược Hà Tĩnh",
+        "stock_code": "HDP"
+    },
+    {
+        "id_group": 10,
+        "company_name": "CTCP Dược phẩm Imexpharm",
+        "stock_code": "IMP"
+    },
+    {
+        "id_group": 10,
+        "company_name": "CTCP Thiết bị Y tế Việt Nhật",
+        "stock_code": "JVC"
+    },
+    {
+        "id_group": 10,
+        "company_name": "CTCP Dược Lâm Đồng – Ladophar",
+        "stock_code": "LDP"
+    },
+    {
+        "id_group": 10,
+        "company_name": "CTCP Dược thú Y Cai Lậy",
+        "stock_code": "MKV"
+    },
+    {
+        "id_group": 10,
+        "company_name": "CTCP Dược Medipharco",
+        "stock_code": "MTP"
+    },
+    {
+        "id_group": 10,
+        "company_name": "CTCP Nam Dược",
+        "stock_code": "NDC"
+    },
+    {
+        "id_group": 10,
+        "company_name": "CTCP Dược phẩm 2/9",
+        "stock_code": "NDP"
+    },
+    {
+        "id_group": 10,
+        "company_name": "CTCP Dược phẩm OPC",
+        "stock_code": "OPC"
+    },
+    {
+        "id_group": 10,
+        "company_name": "CTCP Dược phẩm Dược liệu Pharmedic",
+        "stock_code": "PMC"
+    },
+    {
+        "id_group": 10,
+        "company_name": "CTCP Pymepharco",
+        "stock_code": "PME"
+    },
+    {
+        "id_group": 10,
+        "company_name": "CTCP Dược phẩm Phong Phú",
+        "stock_code": "PPP"
+    },
+    {
+        "id_group": 10,
+        "company_name": "CTCP SPM",
+        "stock_code": "SPM"
+    },
+    {
+        "id_group": 10,
+        "company_name": "CTCP Traphaco",
+        "stock_code": "TRA"
+    },
+    {
+        "id_group": 10,
+        "company_name": "CTCP Dược Trung ương 3",
+        "stock_code": "TW3"
+    },
+    {
+        "id_group": 10,
+        "company_name": "CTCP Dược phẩm TW 25",
+        "stock_code": "UPH"
+    },
+    {
+        "id_group": 10,
+        "company_name": "CTCP Dược phẩm Trung Ương Vidipha",
+        "stock_code": "VDP"
+    },
+    {
+        "id_group": 10,
+        "company_name": "CTCP Khử trùng Việt Nam",
+        "stock_code": "VFG"
+    },
+    {
+        "id_group": 10,
+        "company_name": "CTCP Y Dược phẩm Vimedimex",
+        "stock_code": "VMD"
+    },
+    {
+        "id_group": 11,
+        "company_name": "CTCP Thủy sản Mekong - HOSE",
+        "stock_code": "AAM"
+    },
+    {
+        "id_group": 11,
+        "company_name": "CTCP Xuất nhập khẩu Thủy sản Bến Tre - HOSE",
+        "stock_code": "ABT"
+    },
+    {
+        "id_group": 11,
+        "company_name": "CTCP Xuất nhập khẩu Thủy sản Cửu Long An Giang - HOSE",
+        "stock_code": "ACL"
+    },
+    {
+        "id_group": 11,
+        "company_name": "CTCP Xuất nhập khẩu Thủy sản An Giang - UPCOM",
+        "stock_code": "AGF"
+    },
+    {
+        "id_group": 11,
+        "company_name": "CTCP Nam Việt - HSX",
+        "stock_code": "ANV"
+    },
+    {
+        "id_group": 11,
+        "company_name": "CTCP Kinh doanh Thủy Hải Sản Sài Gòn - UPCOM",
+        "stock_code": "APT"
+    },
+    {
+        "id_group": 11,
+        "company_name": "CTCP Thủy sản Bạc Liêu - HNX",
+        "stock_code": "BLF"
+    },
+    {
+        "id_group": 11,
+        "company_name": "CTCP Chế biến và Xuất nhập khẩu Thủy sản CADOVIMEX - UPCOM",
+        "stock_code": "CAD"
+    },
+    {
+        "id_group": 11,
+        "company_name": "CTCP Thủy sản Cà Mau - UPCOM",
+        "stock_code": "CAT"
+    },
+    {
+        "id_group": 11,
+        "company_name": "CTCP Xuất nhập khẩu Thủy sản Cần Thơ - UPCOM",
+        "stock_code": "CCA"
+    },
+    {
+        "id_group": 11,
+        "company_name": "CTCP Camimex Group - HOSE",
+        "stock_code": "CMX"
+    },
+    {
+        "id_group": 11,
+        "company_name": "CTCP Nam Việt - HSX",
+        "stock_code": "DAT"
+    },
+    {
+        "id_group": 11,
+        "company_name": "CTCP Thực phẩm Sao Ta",
+        "stock_code": "FMC"
+    },
+    {
+        "id_group": 11,
+        "company_name": "Trung tâm Giống Thủy sản Quảng Nam - UPCOM",
+        "stock_code": "GQN"
+    },
+    {
+        "id_group": 11,
+        "company_name": "CTCP Đầu tư Thương mại Thủy Sản - UPCOM",
+        "stock_code": "ICF"
+    },
+    {
+        "id_group": 11,
+        "company_name": "CTCT Đầu tư và phát triển đa quốc gia IDI",
+        "stock_code": "IDI"
+    },
+    {
+        "id_group": 11,
+        "company_name": "CTCP Chế biến Thủy sản Xuất khẩu Minh Hải - UPCOM",
+        "stock_code": "JOS"
+    },
+    {
+        "id_group": 11,
+        "company_name": "CTCP Kiên Hùng - HNX",
+        "stock_code": "KHS"
+    },
+    {
+        "id_group": 11,
+        "company_name": "CTCP Xuất khẩu Thủy sản Khánh Hòa - UPCOM",
+        "stock_code": "KSE"
+    },
+    {
+        "id_group": 11,
+        "company_name": "CTCP Tập đoàn Thủy sản Minh Phú - UPCOM",
+        "stock_code": "MPC"
+    },
+    {
+        "id_group": 11,
+        "company_name": "CTCP Chế biến Thủy sản Xuất khẩu Ngô Quyền - UPCOM",
+        "stock_code": "NGC"
+    },
+    {
+        "id_group": 11,
+        "company_name": "CTCP Công nghiệp Thủy sản - UPCOM",
+        "stock_code": "SCO"
+    },
+    {
+        "id_group": 11,
+        "company_name": "Tổng Công ty Thuỷ sản Việt Nam - UPCOM",
+        "stock_code": "SEA"
+    },
+    {
+        "id_group": 11,
+        "company_name": "CTCP Nông nghiệp Hùng Hậu - HNX",
+        "stock_code": "SJ1"
+    },
+    {
+        "id_group": 11,
+        "company_name": "CTCP XNK Thuỷ sản Năm Căn - UPCOM",
+        "stock_code": "SNC"
+    },
+    {
+        "id_group": 11,
+        "company_name": "CTCP XNK Thuỷ sản Miền Trung - UPCOM",
+        "stock_code": "SPD"
+    },
+    {
+        "id_group": 11,
+        "company_name": "CTCP Xuất nhập khẩu Thủy sản Hà Nội - UPCOM",
+        "stock_code": "SPH"
+    },
+    {
+        "id_group": 11,
+        "company_name": "CTCP XNK Thuỷ sản Sài Gòn - UPCOM",
+        "stock_code": "SSN"
+    },
+    {
+        "id_group": 11,
+        "company_name": "CTCP Thủy sản số 4 - HOSE",
+        "stock_code": "TS4"
+    },
+    {
+        "id_group": 11,
+        "company_name": "CTCP Vĩnh Hoàn - HSX",
+        "stock_code": "VHC"
+    },
+    {
+        "id_group": 11,
+        "company_name": "CTCP Đầu tư Việt Việt Nhật - UPCOM",
+        "stock_code": "VNH"
+    },
+    {
+        "id_group": 12,
+        "company_name": "Cty Cổ phần Damsan",
+        "stock_code": "ADS"
+    },
+    {
+        "id_group": 12,
+        "company_name": "CTCP 28.1",
+        "stock_code": "AG1"
+    },
+    {
+        "id_group": 12,
+        "company_name": "CTCP Giày Bình Định - UPCOM",
+        "stock_code": "BDF"
+    },
+    {
+        "id_group": 12,
+        "company_name": "CTCP May mặc Bình Dương",
+        "stock_code": "BDG"
+    },
+    {
+        "id_group": 12,
+        "company_name": "CTCP May Bình Minh",
+        "stock_code": "BMG"
+    },
+    {
+        "id_group": 12,
+        "company_name": "CTCP Dệt may – Đầu tư – Thương mại Thành Công - HOSE",
+        "stock_code": "CTM"
+    },
+    {
+        "id_group": 12,
+        "company_name": "CTCP Tổng Công ty May Đáp Cầu",
+        "stock_code": "DCG"
+    },
+    {
+        "id_group": 12,
+        "company_name": "Cty Cổ phần Dệt may 7",
+        "stock_code": "DM7"
+    },
+    {
+        "id_group": 12,
+        "company_name": "Cty Cổ phần Everpia",
+        "stock_code": "EVE"
+    },
+    {
+        "id_group": 12,
+        "company_name": "CTCP Đầu tư Dệt may G.Home - UPCOM",
+        "stock_code": "G20"
+    },
+    {
+        "id_group": 12,
+        "company_name": "Cty Cổ phần Sản xuất Kinh doanh và XNK Bình Thạnh",
+        "stock_code": "GIL"
+    },
+    {
+        "id_group": 12,
+        "company_name": "Cty Cổ phần Garmex Sài Gòn",
+        "stock_code": "GMC"
+    },
+    {
+        "id_group": 12,
+        "company_name": "CTCP Dệt may 29/3 - UPCOM",
+        "stock_code": "HCB"
+    },
+    {
+        "id_group": 12,
+        "company_name": "CTCP Dệt May Huế - UPCOM",
+        "stock_code": "HDM"
+    },
+    {
+        "id_group": 12,
+        "company_name": "CTCP Thương mại dịch vụ Thời trang Hà Nội - UPCOM",
+        "stock_code": "HFS"
+    },
+    {
+        "id_group": 12,
+        "company_name": "Cty Cổ phần May Hữu Nghị",
+        "stock_code": "HNI"
+    },
+    {
+        "id_group": 12,
+        "company_name": "Tổng CTCP Dệt may Hà Nội - UPCOM",
+        "stock_code": "HSM"
+    },
+    {
+        "id_group": 12,
+        "company_name": "Tổng CTCP Dệt may Hòa Thọ - UPCOM",
+        "stock_code": "HTG"
+    },
+    {
+        "id_group": 12,
+        "company_name": "Tổng Công ty May Hưng Yên - CTCP",
+        "stock_code": "HUG"
+    },
+    {
+        "id_group": 12,
+        "company_name": "Cty Cổ phần Mirae",
+        "stock_code": "KMR"
+    },
+    {
+        "id_group": 12,
+        "company_name": "CTCP Giày da và May mặc Xuất khẩu (LEGAMEX) - UPCOM",
+        "stock_code": "LGM"
+    },
+    {
+        "id_group": 12,
+        "company_name": "Tổng Công ty May 10 – CTCP - UPCOM",
+        "stock_code": "M10"
+    },
+    {
+        "id_group": 12,
+        "company_name": "CTCP Tổng Công ty May Đồng Nai - UPCOM",
+        "stock_code": "MDN"
+    },
+    {
+        "id_group": 12,
+        "company_name": "Tổng Công ty Đức Giang - CTCP",
+        "stock_code": "MGG"
+    },
+    {
+        "id_group": 12,
+        "company_name": "CTCP Dệt Minh Khai - UPCOM",
+        "stock_code": "MKT"
+    },
+    {
+        "id_group": 12,
+        "company_name": "Tổng Công ty May Nhà Bè – CTCP - UPCOM",
+        "stock_code": "MNB"
+    },
+    {
+        "id_group": 12,
+        "company_name": "CTCP Tập đoàn MPT",
+        "stock_code": "MPT"
+    },
+    {
+        "id_group": 12,
+        "company_name": "Cty Cổ phần May Sông Hồng",
+        "stock_code": "MSH"
+    },
+    {
+        "id_group": 12,
+        "company_name": "Tổng CTCP Dệt may Nam Định - UPCOM",
+        "stock_code": "NDT"
+    },
+    {
+        "id_group": 12,
+        "company_name": "CTCP May Nam Định - UPCOM",
+        "stock_code": "NJC"
+    },
+    {
+        "id_group": 12,
+        "company_name": "CTCP May Phú Thịnh – Nhà Bè - UPCOM",
+        "stock_code": "NPS"
+    },
+    {
+        "id_group": 12,
+        "company_name": "CTCP Dệt – May Nha Trang - UPCOM",
+        "stock_code": "NTT"
+    },
+    {
+        "id_group": 12,
+        "company_name": "CTCP May Xuất khẩu Phan Thiết - UPCOM",
+        "stock_code": "PTG"
+    },
+    {
+        "id_group": 12,
+        "company_name": "CTCP Đầu tư Phát triển Sài Gòn 3 Group",
+        "stock_code": "SGI"
+    },
+    {
+        "id_group": 12,
+        "company_name": "CTCP Sợi Phú Bài - UPCOM",
+        "stock_code": "SPB"
+    },
+    {
+        "id_group": 12,
+        "company_name": "CTCP Giáo dục G Sài Gòn",
+        "stock_code": "SSF"
+    },
+    {
+        "id_group": 12,
+        "company_name": "CTCP Sợi Thế Kỷ - HOSE",
+        "stock_code": "STK"
+    },
+    {
+        "id_group": 12,
+        "company_name": "Cty Cổ phần Dệt may - Đầu tư - Thương mại Thành Công",
+        "stock_code": "TCM"
+    },
+    {
+        "id_group": 12,
+        "company_name": "CTCP Đầu tư và Phát triển TDT",
+        "stock_code": "TDT"
+    },
+    {
+        "id_group": 12,
+        "company_name": "CTCP Vải sợi May mặc Miền Bắc",
+        "stock_code": "TET"
+    },
+    {
+        "id_group": 12,
+        "company_name": "CTCP Tứ Hải Hà Nam",
+        "stock_code": "THM"
+    },
+    {
+        "id_group": 12,
+        "company_name": "CTCP May Quốc tế Thắng Lợi",
+        "stock_code": "TLI"
+    },
+    {
+        "id_group": 12,
+        "company_name": "Cty Cổ phần Đầu tư và Thương mại TNG",
+        "stock_code": "TNG"
+    },
+    {
+        "id_group": 12,
+        "company_name": "CTCP May Thanh Trì",
+        "stock_code": "TTG"
+    },
+    {
+        "id_group": 12,
+        "company_name": "Tổng Công ty Việt Thắng",
+        "stock_code": "TVT"
+    },
+    {
+        "id_group": 12,
+        "company_name": "CTCP – Viện nghiên cứu Dệt may - UPCOM",
+        "stock_code": "VDM"
+    },
+    {
+        "id_group": 12,
+        "company_name": "CTCP Vinatex Đà Nẵng",
+        "stock_code": "VDN"
+    },
+    {
+        "id_group": 12,
+        "company_name": "Tổng CTCP May Việt Tiến - UPCOM",
+        "stock_code": "VGG"
+    },
+    {
+        "id_group": 12,
+        "company_name": "Tập đoàn Dệt may Việt Nam - UPCOM",
+        "stock_code": "VGT"
+    },
+    {
+        "id_group": 12,
+        "company_name": "CTCP X20",
+        "stock_code": "X20"
+    },
+    {
+        "id_group": 12,
+        "company_name": "CTCP 26",
+        "stock_code": "X26"
+    },
+    {
+        "id_group": 13,
+        "company_name": "CTCP Cảng An Giang",
+        "stock_code": "CAG"
+    },
+    {
+        "id_group": 13,
+        "company_name": "CTCP Cảng Cửa Cấm Hải Phòng - UPCOM",
+        "stock_code": "CCP"
+    },
+    {
+        "id_group": 13,
+        "company_name": "CTCP Cảng Cam Ranh - UPCOM",
+        "stock_code": "CCR"
+    },
+    {
+        "id_group": 13,
+        "company_name": "CTCP Cảng Cần Thơ - UPCOM",
+        "stock_code": "CCT"
+    },
+    {
+        "id_group": 13,
+        "company_name": "CTCP Cảng Đà Nẵng - HNX",
+        "stock_code": "CDN"
+    },
+    {
+        "id_group": 13,
+        "company_name": "CTCP Cảng Cát Lái - HOSE",
+        "stock_code": "CLL"
+    },
+    {
+        "id_group": 13,
+        "company_name": "CTCP Cảng Chân Mây - UPCOM",
+        "stock_code": "CMP"
+    },
+    {
+        "id_group": 13,
+        "company_name": "CTCP Hàng Hải Đông Đô - UPCOM",
+        "stock_code": "DDM"
+    },
+    {
+        "id_group": 13,
+        "company_name": "CTCP Logistics Cảng Đà Nẵng - UPCOM",
+        "stock_code": "DNL"
+    },
+    {
+        "id_group": 13,
+        "company_name": "CTCP Quản lý Đường sông Số 3",
+        "stock_code": "DS3"
+    },
+    {
+        "id_group": 13,
+        "company_name": "CTCP Thương mại Dịch vụ Tổng hợp Cảng Hải Phòng - UPCOM",
+        "stock_code": "DVC"
+    },
+    {
+        "id_group": 13,
+        "company_name": "CTCP Đầu tư và Phát triển Cảng Đình Vũ - HOSE",
+        "stock_code": "DVP"
+    },
+    {
+        "id_group": 13,
+        "company_name": "CTCP Cảng Đoạn Xá - HNX",
+        "stock_code": "DXP"
+    },
+    {
+        "id_group": 13,
+        "company_name": "CTCP Đầu tư Dịch vụ và Phát triển Xanh",
+        "stock_code": "GIC"
+    },
+    {
+        "id_group": 13,
+        "company_name": "CTCP Gemadept - HOSE",
+        "stock_code": "GMD"
+    },
+    {
+        "id_group": 13,
+        "company_name": "CTCP Vận tải và Xếp dỡ Hải An - HOSE",
+        "stock_code": "HAH"
+    },
+    {
+        "id_group": 13,
+        "company_name": "CTCP Thương mại Dịch vụ Vận tải Xi măng Hải Phòng - HNX",
+        "stock_code": "HCT"
+    },
+    {
+        "id_group": 13,
+        "company_name": "CTCP Hưng Đạo Container - UPCOM",
+        "stock_code": "HDO"
+    },
+    {
+        "id_group": 13,
+        "company_name": "CTCP Hải Minh",
+        "stock_code": "HMH"
+    },
+    {
+        "id_group": 13,
+        "company_name": "CTCP Vận tải Hà Tiên - HOSE",
+        "stock_code": "HTV"
+    },
+    {
+        "id_group": 13,
+        "company_name": "CTCP ICD Tân Cảng - Long Bình",
+        "stock_code": "ILB"
+    },
+    {
+        "id_group": 13,
+        "company_name": "CTCP ICD Tân Cảng Sóng Thần - UPCOM",
+        "stock_code": "IST"
+    },
+    {
+        "id_group": 13,
+        "company_name": "CTCP Cung ứng và Dịch vụ Kỹ thuật Hàng Hải - HNX",
+        "stock_code": "MAC"
+    },
+    {
+        "id_group": 13,
+        "company_name": "CTCP MHC - HOSE",
+        "stock_code": "MHC"
+    },
+    {
+        "id_group": 13,
+        "company_name": "Tổng công ty Hàng Hải Việt Nam",
+        "stock_code": "MVN"
+    },
+    {
+        "id_group": 13,
+        "company_name": "CTCP Cảng Nghệ Tĩnh - HNX",
+        "stock_code": "NAP"
+    },
+    {
+        "id_group": 13,
+        "company_name": "CTCP Vận tải Khí và Hóa chất Việt Nam - HNX",
+        "stock_code": "PCT"
+    },
+    {
+        "id_group": 13,
+        "company_name": "CTCP Cảng Đồng Nai - HOSE",
+        "stock_code": "PDN"
+    },
+    {
+        "id_group": 13,
+        "company_name": "CTCP Cảng Hải Phòng - HNX",
+        "stock_code": "PHP"
+    },
+    {
+        "id_group": 13,
+        "company_name": "CTCP Vận tải Xăng dầu đường Thủy Petrolimex - HOSE",
+        "stock_code": "PJT"
+    },
+    {
+        "id_group": 13,
+        "company_name": "CTCP Logistics Portserco - HNX",
+        "stock_code": "PRC"
+    },
+    {
+        "id_group": 13,
+        "company_name": "CTCP Cảng Dịch vụ Dầu khí Đình Vũ - UPCOM",
+        "stock_code": "PSP"
+    },
+    {
+        "id_group": 13,
+        "company_name": "CTCP Tân Cảng Quy Nhơn - UPCOM",
+        "stock_code": "QSP"
+    },
+    {
+        "id_group": 13,
+        "company_name": "CTCP Xếp dỡ và Dịch vụ Cảng Sài Gòn - UPCOM",
+        "stock_code": "SAC"
+    },
+    {
+        "id_group": 13,
+        "company_name": "CTCP Đại lý Vận tải SAFI - HOSE",
+        "stock_code": "SFI"
+    },
+    {
+        "id_group": 13,
+        "company_name": "CTCP Cảng Sài Gòn - UPCOM",
+        "stock_code": "SGP"
+    },
+    {
+        "id_group": 13,
+        "company_name": "CTCP Vận tải biển Hải Âu - UPCOM",
+        "stock_code": "SSG"
+    },
+    {
+        "id_group": 13,
+        "company_name": "CTCP Kho vận Miền Nam",
+        "stock_code": "STG"
+    },
+    {
+        "id_group": 13,
+        "company_name": "Tổng CTCP Đường Sông Miền Nam",
+        "stock_code": "SWC"
+    },
+    {
+        "id_group": 13,
+        "company_name": "CTCP Đại lý Giao nhận Vận tải Xếp dỡ Tân Cảng - HOSE",
+        "stock_code": "TCL"
+    },
+    {
+        "id_group": 13,
+        "company_name": "CTCP Vận tải Đa phương thức Duyên Hải - HOSE",
+        "stock_code": "TCO"
+    },
+    {
+        "id_group": 13,
+        "company_name": "CTCP Kho Vận Tân Cảng - UPCOM",
+        "stock_code": "TCW"
+    },
+    {
+        "id_group": 13,
+        "company_name": "CTCP Dịch vụ Vận tải và Thương mại - HNX",
+        "stock_code": "TJC"
+    },
+    {
+        "id_group": 13,
+        "company_name": "CTCP Transimex - HOSE",
+        "stock_code": "TMS"
+    },
+    {
+        "id_group": 13,
+        "company_name": "CTCP Cảng Thị Nại - UPCOM",
+        "stock_code": "TNP"
+    },
+    {
+        "id_group": 13,
+        "company_name": "CTCP Transimex Logistics",
+        "stock_code": "TOT"
+    },
+    {
+        "id_group": 13,
+        "company_name": "CTCP Đầu tư Xây dựng và Công nghệ Tiến Trung",
+        "stock_code": "TTZ"
+    },
+    {
+        "id_group": 13,
+        "company_name": "CTCP Vinafco - UPCOM",
+        "stock_code": "VFC"
+    },
+    {
+        "id_group": 13,
+        "company_name": "CTCP Vận tải và Thuê tàu - UPCOM",
+        "stock_code": "VFR"
+    },
+    {
+        "id_group": 13,
+        "company_name": "CTCP Cảng Rau Quả - HNX",
+        "stock_code": "VGP"
+    },
+    {
+        "id_group": 13,
+        "company_name": "CTCP Vận tải Xăng dầu Vipco - HOSE",
+        "stock_code": "VIP"
+    },
+    {
+        "id_group": 13,
+        "company_name": "CTCP Phát triển Hàng Hải",
+        "stock_code": "VMS"
+    },
+    {
+        "id_group": 13,
+        "company_name": "CTCP Vận tải Biển Vinaship - UPCOM",
+        "stock_code": "VNA"
+    },
+    {
+        "id_group": 13,
+        "company_name": "CTCP Vinafreight",
+        "stock_code": "VNF"
+    },
+    {
+        "id_group": 13,
+        "company_name": "CTCP Logistics Vinalink - HOSE",
+        "stock_code": "VNL"
+    },
+    {
+        "id_group": 13,
+        "company_name": "CTCP Giao nhận Vận tải Ngoại thương - HNX",
+        "stock_code": "VNT"
+    },
+    {
+        "id_group": 13,
+        "company_name": "CTCP Vận tải Biển Việt Nam) - HOSE",
+        "stock_code": "VOS"
+    },
+    {
+        "id_group": 13,
+        "company_name": "CTCP Đại lý Hàng hải Việt Nam",
+        "stock_code": "VSA"
+    },
+    {
+        "id_group": 13,
+        "company_name": "CTCP Container Việt Nam - HOSE",
+        "stock_code": "VSC"
+    },
+    {
+        "id_group": 13,
+        "company_name": "CTCP Container Miền Trung",
+        "stock_code": "VSM"
+    },
+    {
+        "id_group": 13,
+        "company_name": "CTCP Bến xe Miền Tây",
+        "stock_code": "WCS"
+    },
+    {
+        "id_group": 14,
+        "company_name": "Tổng CTCP bảo hiểm Ngân hàng Nông nghiệp",
+        "stock_code": "ABI"
+    },
+    {
+        "id_group": 14,
+        "company_name": "Tổng CTCP bảo hiểm Hàng Không",
+        "stock_code": "AIC"
+    },
+    {
+        "id_group": 14,
+        "company_name": "Tổng CTCP bảo hiểm Ngân hàng Đầu tư và phát triển Việt Nam",
+        "stock_code": "BIC"
+    },
+    {
+        "id_group": 14,
+        "company_name": "Tổng CTCP bảo hiểm Bảo Long",
+        "stock_code": "BLI"
+    },
+    {
+        "id_group": 14,
+        "company_name": "Tổng CTCP Bảo Minh",
+        "stock_code": "BMI"
+    },
+    {
+        "id_group": 14,
+        "company_name": "Tập đoàn Bảo Việt",
+        "stock_code": "BVH"
+    },
+    {
+        "id_group": 14,
+        "company_name": "Tổng CTCP bảo hiểm Quân Đội",
+        "stock_code": "MIG"
+    },
+    {
+        "id_group": 14,
+        "company_name": "Tổng CTCP bảo hiểm Petrolimex",
+        "stock_code": "PGI"
+    },
+    {
+        "id_group": 14,
+        "company_name": "Tổng CTCP Tái bảo hiểm Hà Nội",
+        "stock_code": "PRE"
+    },
+    {
+        "id_group": 14,
+        "company_name": "Tổng CTCP bảo hiểm Bưu Điện",
+        "stock_code": "PTI"
+    },
+    {
+        "id_group": 14,
+        "company_name": "CTCP PVI",
+        "stock_code": "PVI"
+    },
+    {
+        "id_group": 14,
+        "company_name": "Tổng CTCP tái bảo hiểm Quốc gia Việt Nam",
+        "stock_code": "VNR"
+    },
+    {
+        "id_group": 15,
+        "company_name": "CTCP Mỹ thuật và Truyền thông",
+        "stock_code": "ADC"
+    },
+    {
+        "id_group": 15,
+        "company_name": "CTCP Sách và Thiết bị Bình Định",
+        "stock_code": "BDB"
+    },
+    {
+        "id_group": 15,
+        "company_name": "CTCP Sách và Thiết bị Trường học Đà Nẵng",
+        "stock_code": "BED"
+    },
+    {
+        "id_group": 15,
+        "company_name": "CTCP Sách và Thiết bị Bình Thuận",
+        "stock_code": "BST"
+    },
+    {
+        "id_group": 15,
+        "company_name": "CTCP COKYVINA",
+        "stock_code": "CKV"
+    },
+    {
+        "id_group": 15,
+        "company_name": "CTCP tập đoàn công nghệ CMC",
+        "stock_code": "CMG"
+    },
+    {
+        "id_group": 15,
+        "company_name": "CTCP Công nghệ mạng và truyền thông",
+        "stock_code": "CMT"
+    },
+    {
+        "id_group": 15,
+        "company_name": "CTCP Đầu tư và Phát triển Giáo dục Đà Nẵng",
+        "stock_code": "DAD"
+    },
+    {
+        "id_group": 15,
+        "company_name": "CTCP Sách Giáo dục tại Thành phố Đà Nẵng",
+        "stock_code": "DAE"
+    },
+    {
+        "id_group": 15,
+        "company_name": "CTCP Đầu tư Sao Thăng Long",
+        "stock_code": "DST"
+    },
+    {
+        "id_group": 15,
+        "company_name": "CTCP Sách Giáo dục tại Thành phố Hà Nội",
+        "stock_code": "EBS"
+    },
+    {
+        "id_group": 15,
+        "company_name": "CTCP Tập Đoàn ECI",
+        "stock_code": "ECI"
+    },
+    {
+        "id_group": 15,
+        "company_name": "CTCP Đầu tư và Phát triển Giáo dục Hà Nội",
+        "stock_code": "EID"
+    },
+    {
+        "id_group": 15,
+        "company_name": "CTCP đầu tư phát triển công nghệ điện tử – viễn thông",
+        "stock_code": "ELC"
+    },
+    {
+        "id_group": 15,
+        "company_name": "CTCP FPT",
+        "stock_code": "FPT"
+    },
+    {
+        "id_group": 15,
+        "company_name": "CTCP Kỹ thuật Điện Toàn cầu",
+        "stock_code": "GLT"
+    },
+    {
+        "id_group": 15,
+        "company_name": "CTCP Sách Đại học - Dạy nghề",
+        "stock_code": "HEV"
+    },
+    {
+        "id_group": 15,
+        "company_name": "CTCP tập đoàn HIPT",
+        "stock_code": "HIG"
+    },
+    {
+        "id_group": 15,
+        "company_name": "CTCP dịch vụ công nghệ tin học HPT",
+        "stock_code": "HPT"
+    },
+    {
+        "id_group": 15,
+        "company_name": "CTCP viễn thông – tin học bưu điện",
+        "stock_code": "ICT"
+    },
+    {
+        "id_group": 15,
+        "company_name": "CTCP Công nghệ Tiên Phong",
+        "stock_code": "ITD"
+    },
+    {
+        "id_group": 15,
+        "company_name": "CTCP Kasati",
+        "stock_code": "KST"
+    },
+    {
+        "id_group": 15,
+        "company_name": "CTCP Sách và Thiết bị Trường học Long An",
+        "stock_code": "LBE"
+    },
+    {
+        "id_group": 15,
+        "company_name": "CTCP Công nghệ One",
+        "stock_code": "ONE"
+    },
+    {
+        "id_group": 15,
+        "company_name": "CTCP Tin học Viễn thông Petrolimex",
+        "stock_code": "PIA"
+    },
+    {
+        "id_group": 15,
+        "company_name": "CTCP thiết bị Bưu Điện",
+        "stock_code": "POT"
+    },
+    {
+        "id_group": 15,
+        "company_name": "CTCP Sách và Thiết bị Trường học Quảng Ninh",
+        "stock_code": "QST"
+    },
+    {
+        "id_group": 15,
+        "company_name": "CTCP Sam Holdings",
+        "stock_code": "SAM"
+    },
+    {
+        "id_group": 15,
+        "company_name": "CTCP công nghệ Sao Bắc Đẩu",
+        "stock_code": "SBD"
+    },
+    {
+        "id_group": 15,
+        "company_name": "CTCP Đầu tư và Phát triển Giáo dục Phương Nam",
+        "stock_code": "SED"
+    },
+    {
+        "id_group": 15,
+        "company_name": "CTCP Sách Giáo dục tại Thành phố Hồ Chí Minh",
+        "stock_code": "SGD"
+    },
+    {
+        "id_group": 15,
+        "company_name": "CTCP công nghệ viễn thông Sài Gòn",
+        "stock_code": "SGT"
+    },
+    {
+        "id_group": 15,
+        "company_name": "CTCP Sách và Thiết bị Giáo dục Miền Nam",
+        "stock_code": "SMN"
+    },
+    {
+        "id_group": 15,
+        "company_name": "CTCP Sara Việt Nam",
+        "stock_code": "SRA"
+    },
+    {
+        "id_group": 15,
+        "company_name": "CTCP Sách và Thiết bị Trường học Thành phố Hồ Chí Minh",
+        "stock_code": "STC"
+    },
+    {
+        "id_group": 15,
+        "company_name": "CTCP In sách giáo khoa tại Thành phố Hà Nội",
+        "stock_code": "TPH"
+    },
+    {
+        "id_group": 15,
+        "company_name": "CTCP Viễn Liên",
+        "stock_code": "UNI"
+    },
+    {
+        "id_group": 15,
+        "company_name": "Tổng CTCP điện tử và tin học Việt Nam",
+        "stock_code": "VEC"
+    },
+    {
+        "id_group": 15,
+        "company_name": "CTCP Viễn thông VTC",
+        "stock_code": "VTC"
+    },
+    {
+        "id_group": 15,
+        "company_name": "CTCP Viễn thông điện tử Vinacap",
+        "stock_code": "VTE"
+    },
+    {
+        "id_group": 16,
+        "company_name": "CTCP Hợp Nhất",
+        "stock_code": "AAH"
+    },
+    {
+        "id_group": 16,
+        "company_name": "CTCP 397",
+        "stock_code": "BCB"
+    },
+    {
+        "id_group": 16,
+        "company_name": "CTCP XNK than - Vinacomin",
+        "stock_code": "CLM"
+    },
+    {
+        "id_group": 16,
+        "company_name": "CTCP Than Cao Sơn - TKV",
+        "stock_code": "CST"
+    },
+    {
+        "id_group": 16,
+        "company_name": "CTCP Than Hà Lầm – Vinacomin - HNX",
+        "stock_code": "HLC"
+    },
+    {
+        "id_group": 16,
+        "company_name": "CTCP Đầu tư Thương mại và Dịch vụ – Vinacomin",
+        "stock_code": "ITS"
+    },
+    {
+        "id_group": 16,
+        "company_name": "CTCP Than Mông Dương – Vinacomin - HNX",
+        "stock_code": "MDC"
+    },
+    {
+        "id_group": 16,
+        "company_name": "CTCP Than Núi Béo – Vinacomin - HNX",
+        "stock_code": "NBC"
+    },
+    {
+        "id_group": 16,
+        "company_name": "CTCP Than Cọc Sáu – Vinacomin - HNX",
+        "stock_code": "TC6"
+    },
+    {
+        "id_group": 16,
+        "company_name": "CTCP Than Đèo Nai – VinacominCTCP Than Đèo Nai – Vinacomin - HNX",
+        "stock_code": "TDN"
+    },
+    {
+        "id_group": 16,
+        "company_name": "CTCP Than Hà Tu – Vinacomin - HNX",
+        "stock_code": "THT"
+    },
+    {
+        "id_group": 16,
+        "company_name": "CTCP Kinh doanh Than Miền Bắc – Vinacomin - HNX",
+        "stock_code": "TMB"
+    },
+    {
+        "id_group": 16,
+        "company_name": "CTCP Than Vàng Danh – Vinacomin - HNX",
+        "stock_code": "TVD"
+    },
+    {
+        "id_group": 16,
+        "company_name": "CTCP Vận tải và Chế biến Than Đông Bắc",
+        "stock_code": "VDB"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Đầu tư bất động sản An Gia",
+        "stock_code": "AGG"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Alphanam Ec",
+        "stock_code": "AME"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Châu Á Thái Bình Dương",
+        "stock_code": "API"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Thống Nhất",
+        "stock_code": "BAX"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP xây dựng và giao thông Bình Dương",
+        "stock_code": "BCE"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Bamboo Capital",
+        "stock_code": "BCG"
+    },
+    {
+        "id_group": 17,
+        "company_name": "Tổng Công ty Đầu tư và Phát triển Công nghiệp",
+        "stock_code": "BCM"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Xây dựng 1369",
+        "stock_code": "C69"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Xây dựng và đầu tư 492",
+        "stock_code": "C92"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Đầu Tư và Phát triển Đô Thị Dầu khí Cửu Long",
+        "stock_code": "CCL"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Chương Dương",
+        "stock_code": "CDC"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Xây dựng Hạ tầng CII",
+        "stock_code": "CEE"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Tập đoàn CEO",
+        "stock_code": "CEO"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP COMA 18",
+        "stock_code": "CIG"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Tập đoàn Tư vấn Đầu tư Xây dựng Kiên Giang",
+        "stock_code": "CKG"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Đầu tư bất động sản thế kỷ",
+        "stock_code": "CRE"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Tập đoàn Cotana",
+        "stock_code": "CSC"
+    },
+    {
+        "id_group": 17,
+        "company_name": "Tổng CTCP đầu tư xây dựng và thương mại Việt Nam",
+        "stock_code": "CTX"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Đầu tư và xây lắp Constrexim số 8",
+        "stock_code": "CX8"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Địa ốc 11",
+        "stock_code": "D11"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Phát triển đô thị công nghiệp số 2",
+        "stock_code": "D2D"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP đầu tư phát triển DIC số 2",
+        "stock_code": "DC2"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Phát triển xây dựng Dic Holding",
+        "stock_code": "DC4"
+    },
+    {
+        "id_group": 17,
+        "company_name": "Tổng CTCP đầu tư và phát triển xây dựng",
+        "stock_code": "DIG"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Đầu tư và phát triển xây dựng Hội An",
+        "stock_code": "DIH"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP DRH Holdings",
+        "stock_code": "DRH"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Đệ Tam",
+        "stock_code": "DTA"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Đầu tư và phát triển Thành Đạt",
+        "stock_code": "DTD"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Tập đoàn Đất Xanh",
+        "stock_code": "DXG"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Ngoại thương và phát triển đầu tư Tp Hồ Chí Minh",
+        "stock_code": "FDC"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Địa ốc First Real",
+        "stock_code": "FIR"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Đầu tư Thương mại Bất động sản An Dương Thảo Điền",
+        "stock_code": "HAR"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Hacisco",
+        "stock_code": "HAS"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Phát triển nhà Bà Rịa Vũng Tàu",
+        "stock_code": "HDC"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Tập đoàn Hà Đô",
+        "stock_code": "HDG"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Đầu tư và phát triển Bất động sản Hudland",
+        "stock_code": "HLD"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP đầu tư Hải Phát",
+        "stock_code": "HPX"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Tư vấn Thương mại Dịch vụ Địa Ốc Hoàng Quân",
+        "stock_code": "HQC"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Đầu tư và phát triển Hạ tầng Idico",
+        "stock_code": "HTI"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Đầu tư và xây dựng Hud1",
+        "stock_code": "HU1"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Đầu tư và xây dựng Hud3",
+        "stock_code": "HU3"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Đầu tư và công nghệ HVC",
+        "stock_code": "HVH"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Xây dựng sông Hồng",
+        "stock_code": "ICG"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP đầu tư IDJ Việt Nam",
+        "stock_code": "IDJ"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Phát triển hạ tầng Vĩnh Phúc",
+        "stock_code": "IDV"
+    },
+    {
+        "id_group": 17,
+        "company_name": "Công ty đầu tư và phát triển hạ tầng kỹ thuật",
+        "stock_code": "IJC"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Đầu tư và công nghiệp Tân Tạo",
+        "stock_code": "ITA"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Đầu tư và kinh doanh nhà",
+        "stock_code": "ITC"
+    },
+    {
+        "id_group": 17,
+        "company_name": "Tổng công ty phát triển đô thị Kinh Bắc",
+        "stock_code": "KBC"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Đầu tư và Kinh doanh Nhà Khang Điền",
+        "stock_code": "KDH"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Kosy",
+        "stock_code": "KOS"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP tập đoàn đầu tư KTT",
+        "stock_code": "KTT"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Lilama 10",
+        "stock_code": "L10"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Licogi 14",
+        "stock_code": "L14"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Đầu tư và xây dựng số 18",
+        "stock_code": "L18"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP cơ khí lắp máy Lilama",
+        "stock_code": "L35"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Đầu tư và xây dựng 40",
+        "stock_code": "L40"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Xây dựng Lilama 45 – 3",
+        "stock_code": "L43"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Xây dựng Lilama 69 – 3",
+        "stock_code": "L61"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Xây dựng Lilama 69 – 2",
+        "stock_code": "L62"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Lắp máy – Thí nghiệm Cơ điện",
+        "stock_code": "LCD"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Licogi 166",
+        "stock_code": "LCS"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Đầu tư LDG",
+        "stock_code": "LDG"
+    },
+    {
+        "id_group": 17,
+        "company_name": "Công ty bất động sản điện lực Miền Trung",
+        "stock_code": "LEC"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP đầu tư cầu đường CII",
+        "stock_code": "LGC"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Đầu tư và phát triển đô thị Long Giang",
+        "stock_code": "LGL"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Đầu tư và xây dựng thủy lợi Lâm Đồng",
+        "stock_code": "LHC"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Long Hậu",
+        "stock_code": "LHG"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Licogi 13",
+        "stock_code": "LIG"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Lilama 7",
+        "stock_code": "LM7"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Lilama 18",
+        "stock_code": "LM8"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Đầu tư xây dựng Lương Tài",
+        "stock_code": "LUT"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Đầu tư và Xây dựng BDC Việt Nam",
+        "stock_code": "MCO"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Đầu tư Năm Bảy Bảy",
+        "stock_code": "NBB"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Đầu tư phát triển Nhà Đà Nẵng",
+        "stock_code": "NDN"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Xây lắp phát triển nhà Đà Nẵng",
+        "stock_code": "NDX"
+    },
+    {
+        "id_group": 17,
+        "company_name": "Công ty đầu tư phát triển nhà và đô thị Nam Hà Nội",
+        "stock_code": "NHA"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP đầu tư Nam Long",
+        "stock_code": "NLG"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Tập đoàn Danh Khôi",
+        "stock_code": "NRC"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Phát triển đô thị Từ Liêm",
+        "stock_code": "NTL"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Tập đoàn Đầu tư Địa ốc No Va",
+        "stock_code": "NVL"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Phát triển Bất động sản Phát Đạt",
+        "stock_code": "PDR"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Tập đoàn III Petrolimex",
+        "stock_code": "PEN"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Xây dựng Phục Hưng Holdings",
+        "stock_code": "PHC"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Dịch vụ kỹ thuật điện lực dầu khí Việt Nam",
+        "stock_code": "PPS"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Đầu tư và xây dựng Bưu điện",
+        "stock_code": "PTC"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Thiết kế xây dựng thương mại Phúc Thịnh",
+        "stock_code": "PTD"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP đầu tư và xây dựng dầu khí",
+        "stock_code": "PTL"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Đầu tư PV 2",
+        "stock_code": "PV2"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Đầu tư nhà đất",
+        "stock_code": "PVL"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Xây dựng Công nghiệp và Dân dụng Dầu khí",
+        "stock_code": "PXI"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP kết cấu kim loại và lắp máy dầu khí",
+        "stock_code": "PXS"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Quốc Cường Gia Lai",
+        "stock_code": "QCG"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Công trình giao thông vận tải Quảng Nam",
+        "stock_code": "QTC"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Địa ốc Chợ Lớn",
+        "stock_code": "RCL"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Cơ điện lạnh",
+        "stock_code": "REE"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Sông Đà 505",
+        "stock_code": "S55"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Xây dựng số 5",
+        "stock_code": "SC5"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Địa ốc Sài Gòn Thường Tín",
+        "stock_code": "SCR"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Sông Đà 2",
+        "stock_code": "SD2"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Sông Đà 4",
+        "stock_code": "SD4"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Sông Đà 5",
+        "stock_code": "SD5"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Sông Đà 6",
+        "stock_code": "SD6"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Sông Đà 9",
+        "stock_code": "SD9"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Sông Đà 10",
+        "stock_code": "SDT"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Đầu tư và xây dựng phát triển đô thị sông Đà",
+        "stock_code": "SDU"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Địa Ốc Sài Gòn",
+        "stock_code": "SGR"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Sông Đà 1 – 01",
+        "stock_code": "SJC"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Sông Đà 11",
+        "stock_code": "SJE"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Đầu tư phát triển đô thị và khu công nghiệp Sông Đà",
+        "stock_code": "SJS"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Kỹ Nghệ Lạnh",
+        "stock_code": "SRF"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Sonadezi Long Bình",
+        "stock_code": "SZB"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Sonadezi Châu Đức",
+        "stock_code": "SZC"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Sonadezi Long Thành",
+        "stock_code": "SZL"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Xây lắp Thành An 96",
+        "stock_code": "TA9"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Đầu tư phát triển công nghiệp và vận tải",
+        "stock_code": "TCD"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP đầu tư dịch vụ tài chính Hoàng Huy",
+        "stock_code": "TCH"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Phát triển và kinh doanh Bình Dương",
+        "stock_code": "TDC"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Phát triển nhà Thủ Đức",
+        "stock_code": "TDH"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Thái Holding",
+        "stock_code": "THD"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Tập đoàn đầu tư Thăng Long",
+        "stock_code": "TIG"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP phát triển khu công nghiệp Tín Nghĩa",
+        "stock_code": "TIP"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Sản xuất Kinh doanh Xuất nhập khẩu Dịch vụ và Đầu tư Tân Bình",
+        "stock_code": "TIX"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Xây dựng và kinh doanh địa ốc Tấn Kỳ",
+        "stock_code": "TKC"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Thương Mại và dịch vụ TNS Holdings",
+        "stock_code": "TN1"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP dịch vụ kỹ thuật Viễn Thông",
+        "stock_code": "TST"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Tổng công ty Thăng Long",
+        "stock_code": "TTL"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Xây dựng và Phát triển tỉnh Bà Rịa Vũng Tàu",
+        "stock_code": "UDC"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Xây dựng số 12",
+        "stock_code": "V12"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Vinaconex 21",
+        "stock_code": "V21"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP xây dựng số 1",
+        "stock_code": "VC1"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Đầu tư và xây dựng Vina2",
+        "stock_code": "VC2"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP tập đoàn Nam Mê Kông",
+        "stock_code": "VC3"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Xây dựng và đầu tư Visicons",
+        "stock_code": "VC6"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP tập đoàn BGI",
+        "stock_code": "VC7"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Vinaconex 25",
+        "stock_code": "VCC"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Xây dựng điện Vneco 1",
+        "stock_code": "VE1"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Xây dựng điện Vneco2",
+        "stock_code": "VE2"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Xây dựng điện Vneco3",
+        "stock_code": "VE3"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Xây dựng điện Vneco4",
+        "stock_code": "VE4"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Xây dựng điện Vneco 8",
+        "stock_code": "VE8"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Vinhomes",
+        "stock_code": "VHM"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Tập đoàn Vingroup",
+        "stock_code": "VIC"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Vimeco",
+        "stock_code": "VMC"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP khoáng sản đầu tư Visaco",
+        "stock_code": "VMI"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Vạn Phát Hưng",
+        "stock_code": "VPH"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Đầu tư Văn Phú",
+        "stock_code": "VPI"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Bất động sản và đầu tư VRC",
+        "stock_code": "VRC"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Vincom Retail",
+        "stock_code": "VRE"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Đầu tư và xây dựng cấp thoát nước",
+        "stock_code": "VSI"
+    },
+    {
+        "id_group": 17,
+        "company_name": "CTCP Xây dựng Vật Liệu Bến Tre",
+        "stock_code": "VXB"
+    },
+    {
+        "id_group": 18,
+        "company_name": "CTCP Xuất nhập khẩu Nông sản Thực phẩm An Giang - Upcom",
+        "stock_code": "AFX"
+    },
+    {
+        "id_group": 18,
+        "company_name": "CTCP Xuất Nhập khẩu An Giang - HOSE",
+        "stock_code": "AGM"
+    },
+    {
+        "id_group": 18,
+        "company_name": "CTCP Rau quả Thực phẩm An Giang - Upcom",
+        "stock_code": "ANT"
+    },
+    {
+        "id_group": 18,
+        "company_name": "CTCP Chiếu xạ An Phú - HOSE",
+        "stock_code": "APC"
+    },
+    {
+        "id_group": 18,
+        "company_name": "CTCP Nông sản thực phẩm Quảng Ngãi - Upcom",
+        "stock_code": "APF"
+    },
+    {
+        "id_group": 18,
+        "company_name": "CTCP Nông nghiệp BAF Việt Nam - HOSE",
+        "stock_code": "BAF"
+    },
+    {
+        "id_group": 18,
+        "company_name": "CTCP Bibica - HOSE",
+        "stock_code": "BBC"
+    },
+    {
+        "id_group": 18,
+        "company_name": "CTCP Thực phẩm Bích Chi - HNX",
+        "stock_code": "BCF"
+    },
+    {
+        "id_group": 18,
+        "company_name": "Tổng CTCP Bia - Rượu - Nước giải khát Hà Nội - HOSE",
+        "stock_code": "BHN"
+    },
+    {
+        "id_group": 18,
+        "company_name": "CTCP Lương thực Bình Định - Upcom",
+        "stock_code": "BLT"
+    },
+    {
+        "id_group": 18,
+        "company_name": "CTCP Bột mỳ Vinafood 1 - Upcom",
+        "stock_code": "BMV1"
+    },
+    {
+        "id_group": 18,
+        "company_name": "CTCP Đầu tư Sản xuất Bảo Ngọc - HNX",
+        "stock_code": "BNA"
+    },
+    {
+        "id_group": 18,
+        "company_name": "Cty Cổ phần Bia Sài Gòn - Sông Lam - Upcom",
+        "stock_code": "BSL"
+    },
+    {
+        "id_group": 18,
+        "company_name": "CTCP Đồ hộp Hạ Long - HNX",
+        "stock_code": "CAN"
+    },
+    {
+        "id_group": 18,
+        "company_name": "CTCP Lâm Nông sản Thực phẩm Yên Bái - HNX",
+        "stock_code": "CAP"
+    },
+    {
+        "id_group": 18,
+        "company_name": "Cty Cổ phần Thực phẩm Cholimex - Upcom",
+        "stock_code": "CMF"
+    },
+    {
+        "id_group": 18,
+        "company_name": "CTCP Lương thực Thực phẩm Colusa-Miliket - Upcom",
+        "stock_code": "CMN"
+    },
+    {
+        "id_group": 18,
+        "company_name": "CTCP Tập đoàn Dabaco Việt Nam - HOSE",
+        "stock_code": "DBC"
+    },
+    {
+        "id_group": 18,
+        "company_name": "CTCP Lương thực Thành phố Hồ Chí Minh - Upcom",
+        "stock_code": "FCS"
+    },
+    {
+        "id_group": 18,
+        "company_name": "CTCP Xuất Nhập Khẩu Lương Thực – Thực Phẩm Hà Nội - Upcom",
+        "stock_code": "FHN"
+    },
+    {
+        "id_group": 18,
+        "company_name": "CTCP GTNfoods - HOSE",
+        "stock_code": "GTN"
+    },
+    {
+        "id_group": 18,
+        "company_name": "CTCP Bia Hà Nội - Hải Dương - HNX",
+        "stock_code": "HAD"
+    },
+    {
+        "id_group": 18,
+        "company_name": "CTCP Thương mại Bia Hà Nội - HNX",
+        "stock_code": "HAT"
+    },
+    {
+        "id_group": 18,
+        "company_name": "CTCP Rượu Hapro - Upcom",
+        "stock_code": "HAV"
+    },
+    {
+        "id_group": 18,
+        "company_name": "CTCP Bánh kẹo Hải Hà - HNX",
+        "stock_code": "HHC"
+    },
+    {
+        "id_group": 18,
+        "company_name": "CTCP Nông nghiệp và Thực phẩm Hà Nội – Kinh Bắc - Upcom",
+        "stock_code": "HKB"
+    },
+    {
+        "id_group": 18,
+        "company_name": "CTCP Nông nghiệp Quốc tế Hoàng Anh Gia Lai - HOSE",
+        "stock_code": "HNG"
+    },
+    {
+        "id_group": 18,
+        "company_name": "Cty Cổ phần Thực phẩm Quốc tế - Upcom",
+        "stock_code": "IFS"
+    },
+    {
+        "id_group": 18,
+        "company_name": "CTCP Tập đoàn KIDO - HSX",
+        "stock_code": "KDC"
+    },
+    {
+        "id_group": 18,
+        "company_name": "CTCP Đường Kon Tum - HNX",
+        "stock_code": "KTS"
+    },
+    {
+        "id_group": 18,
+        "company_name": "CTCP Chế biến hàng Xuất khẩu Long An - HSX",
+        "stock_code": "LAF"
+    },
+    {
+        "id_group": 18,
+        "company_name": "CTCP Mía Đường Lam Sơn - HOSE",
+        "stock_code": "LSS"
+    },
+    {
+        "id_group": 18,
+        "company_name": "CTCP Nafoods Group - HOSE",
+        "stock_code": "NAF"
+    },
+    {
+        "id_group": 18,
+        "company_name": "Cty Cổ phần Đường Quảng Ngãi - Upcom",
+        "stock_code": "QNS"
+    },
+    {
+        "id_group": 18,
+        "company_name": "Tổng CTCP Bia - Rượu - Nước giải khát Sài Gòn - HOSE",
+        "stock_code": "SAB"
+    },
+    {
+        "id_group": 18,
+        "company_name": "CTCP Lương thực Thực phẩm Safoco - HNX",
+        "stock_code": "SAF"
+    },
+    {
+        "id_group": 18,
+        "company_name": "CTCP Thành Thành Công - Biên Hòa - HOSE",
+        "stock_code": "SBT"
+    },
+    {
+        "id_group": 18,
+        "company_name": "CTCP Nước giải khát Chương Dương - HOSE",
+        "stock_code": "SCD"
+    },
+    {
+        "id_group": 18,
+        "company_name": "CTCP Xuất nhập khẩu Sa Giang - HNX",
+        "stock_code": "SGC"
+    },
+    {
+        "id_group": 18,
+        "company_name": "CTCP Mía Đường Sơn La - HNX",
+        "stock_code": "SLS"
+    },
+    {
+        "id_group": 18,
+        "company_name": "CTCP Bia Sài Gòn - Miền Trung - HOSE",
+        "stock_code": "SMB"
+    },
+    {
+        "id_group": 18,
+        "company_name": "Công ty Cổ phần Dầu Thực vật Tường An - HOSE",
+        "stock_code": "TAC"
+    },
+    {
+        "id_group": 18,
+        "company_name": "CTCP Nông nghiệp Công nghệ cao Trung An - HSX",
+        "stock_code": "TAR"
+    },
+    {
+        "id_group": 18,
+        "company_name": "CTCP Bia Hà Nội - Thanh Hóa - HNX",
+        "stock_code": "THB"
+    },
+    {
+        "id_group": 18,
+        "company_name": "CTCP Vinacafé Biên Hòa - HSX",
+        "stock_code": "VCF"
+    },
+    {
+        "id_group": 18,
+        "company_name": "CTCP Thực phẩm Lâm Đồng - HNX",
+        "stock_code": "VDL"
+    },
+    {
+        "id_group": 18,
+        "company_name": "CTCP Dược liệu và Thực phẩm Việt Nam - HNX",
+        "stock_code": "VHE"
+    },
+    {
+        "id_group": 18,
+        "company_name": "CTCP Lương thực Thực phẩm Vĩnh Long - Upcom",
+        "stock_code": "VLF"
+    },
+    {
+        "id_group": 18,
+        "company_name": "CTCP Sữa Việt Nam - HSX",
+        "stock_code": "VNM"
+    },
+    {
+        "id_group": 18,
+        "company_name": "Tổng Công ty Lương thực Miền Nam – CTCP - Upcom",
+        "stock_code": "VSF"
+    },
+    {
+        "id_group": 18,
+        "company_name": "Cty Cổ phần Việt Nam Kỹ nghệ súc sản - Upcom",
+        "stock_code": "VSN"
+    },
+    {
+        "id_group": 19,
+        "company_name": "CTCP Truyền thông VMG",
+        "stock_code": "ABC"
+    },
+    {
+        "id_group": 19,
+        "company_name": "Tổng Công ty Chuyển phát nhanh Bưu Điện - CTCP",
+        "stock_code": "EMS"
+    },
+    {
+        "id_group": 19,
+        "company_name": "CTCP Dịch vụ kỹ thuật Mobifone",
+        "stock_code": "MFS"
+    },
+    {
+        "id_group": 19,
+        "company_name": "CTCP Công nghệ thông tin, viễn thông và tự động hóa dầu khí",
+        "stock_code": "PAI"
+    },
+    {
+        "id_group": 19,
+        "company_name": "CTCP Viễn thông FPT",
+        "stock_code": "POX"
+    },
+    {
+        "id_group": 19,
+        "company_name": "CTCP dịch vụ viễn thông và in Bưu Điện",
+        "stock_code": "PTP"
+    },
+    {
+        "id_group": 19,
+        "company_name": "CTCP Công nghệ và truyền thông Việt Nam",
+        "stock_code": "TTN"
+    },
+    {
+        "id_group": 19,
+        "company_name": "Tổng CTCP đầu tư Quốc tế Viettel",
+        "stock_code": "VGI"
+    },
+    {
+        "id_group": 20,
+        "company_name": "CTCP Clever Group",
+        "stock_code": "ADG"
+    },
+    {
+        "id_group": 20,
+        "company_name": "CTCP Văn hóa Tân Bình",
+        "stock_code": "ALT"
+    },
+    {
+        "id_group": 20,
+        "company_name": "CTCP Truyền hình cáp Việt Nam",
+        "stock_code": "CAB"
+    },
+    {
+        "id_group": 20,
+        "company_name": "Công ty TNHH MTV Sách và Thiết bị trường học tỉnh Đắk Nông",
+        "stock_code": "DNB"
+    },
+    {
+        "id_group": 20,
+        "company_name": "CTCP Dịch vụ Xuất bản Giáo dục Hà Nội",
+        "stock_code": "EPH"
+    },
+    {
+        "id_group": 20,
+        "company_name": "CTCP Phát hành sách thành phố Hồ Chí Minh – FAHASA",
+        "stock_code": "FHS"
+    },
+    {
+        "id_group": 20,
+        "company_name": "CTCP Dịch vụ trực tuyến FPT",
+        "stock_code": "FOC"
+    },
+    {
+        "id_group": 20,
+        "company_name": "CTCP Sách và Thiết bị trường học Hà Nội",
+        "stock_code": "HAB"
+    },
+    {
+        "id_group": 20,
+        "company_name": "CTCP in sách giáo khoa Hòa Phát",
+        "stock_code": "HTP"
+    },
+    {
+        "id_group": 20,
+        "company_name": "CTCP In Tổng hợp Bình Dương",
+        "stock_code": "IBD"
+    },
+    {
+        "id_group": 20,
+        "company_name": "Công ty TNHH MTV In báo Nghệ An",
+        "stock_code": "IBN"
+    },
+    {
+        "id_group": 20,
+        "company_name": "CTCP In Hàng không",
+        "stock_code": "IHK"
+    },
+    {
+        "id_group": 20,
+        "company_name": "CTCP In số 4",
+        "stock_code": "IN4"
+    },
+    {
+        "id_group": 20,
+        "company_name": "CTCP In và Phát hành biểu mẫu thống kê",
+        "stock_code": "IPH"
+    },
+    {
+        "id_group": 20,
+        "company_name": "CTCP Sách và Thiết bị giáo dục miền Bắc",
+        "stock_code": "NBE"
+    },
+    {
+        "id_group": 20,
+        "company_name": "CTCP Văn hóa Phương Nam",
+        "stock_code": "PNC"
+    },
+    {
+        "id_group": 20,
+        "company_name": "CTCP đầu tư PV-Inconess",
+        "stock_code": "RGC"
+    },
+    {
+        "id_group": 20,
+        "company_name": "CTCP In sách giáo khoa TP Hồ Chí Minh",
+        "stock_code": "SAP"
+    },
+    {
+        "id_group": 20,
+        "company_name": "CTCP phát hành sách Thái Nguyên",
+        "stock_code": "STH"
+    },
+    {
+        "id_group": 20,
+        "company_name": "CTCP Đo đạc và Khoáng sản",
+        "stock_code": "SUM"
+    },
+    {
+        "id_group": 20,
+        "company_name": "CTCP Sách Việt Nam",
+        "stock_code": "VNB"
+    },
+    {
+        "id_group": 20,
+        "company_name": "CTCP Quảng cáo và Hội chợ thương mại",
+        "stock_code": "VNX"
+    },
+    {
+        "id_group": 20,
+        "company_name": "CTCP VINAPRINT",
+        "stock_code": "VPR"
+    },
+    {
+        "id_group": 20,
+        "company_name": "CTCP tập đoàn Yeah1",
+        "stock_code": "YEG"
+    },
+    {
+        "id_group": 21,
+        "company_name": "Tập đoàn Công nghiệp cao su Việt Nam",
+        "stock_code": "GVR"
+    },
+    {
+        "id_group": 21,
+        "company_name": "Công ty CP cao su Hòa Bình",
+        "stock_code": "HRC"
+    },
+    {
+        "id_group": 21,
+        "company_name": "CTCP cao su Phước Hòa",
+        "stock_code": "PHR"
+    },
+    {
+        "id_group": 21,
+        "company_name": "Công ty CP Công nghiệp và xuất nhập khẩu cao su",
+        "stock_code": "RBC"
+    },
+    {
+        "id_group": 21,
+        "company_name": "Công ty CP cao su Bến Thành",
+        "stock_code": "BRC"
+    },
+    {
+        "id_group": 21,
+        "company_name": "Công ty CP cao su Bà Rịa",
+        "stock_code": "BRR"
+    },
+    {
+        "id_group": 21,
+        "company_name": "Công ty CP Xây dựng cao su Đồng Nai",
+        "stock_code": "CDR"
+    },
+    {
+        "id_group": 21,
+        "company_name": "CTCP Công nghiệp Cao su Miền Nam",
+        "stock_code": "CSM"
+    },
+    {
+        "id_group": 21,
+        "company_name": "Công ty CP Cao su Đồng Phú",
+        "stock_code": "DPR"
+    },
+    {
+        "id_group": 21,
+        "company_name": "Công ty CP cao su Đà Nẵng",
+        "stock_code": "DRC"
+    },
+    {
+        "id_group": 21,
+        "company_name": "Công ty CP cao su Đắk Lắk",
+        "stock_code": "DRG"
+    },
+    {
+        "id_group": 21,
+        "company_name": "Công ty CP Đầu tư cao su Đăk Lăk",
+        "stock_code": "DRI"
+    },
+    {
+        "id_group": 21,
+        "company_name": "Công ty CP Cao su Hà Nội",
+        "stock_code": "HRG"
+    },
+    {
+        "id_group": 21,
+        "company_name": "Công ty CP Cao su Công nghiệp",
+        "stock_code": "IRC"
+    },
+    {
+        "id_group": 21,
+        "company_name": "Công ty CP xây dựng Địa ốc cao su",
+        "stock_code": "RCD"
+    },
+    {
+        "id_group": 21,
+        "company_name": "Công ty CP cao su Tân Biên",
+        "stock_code": "RTB"
+    },
+    {
+        "id_group": 21,
+        "company_name": "Công ty CP Cao su Sông Bé",
+        "stock_code": "SBR"
+    },
+    {
+        "id_group": 21,
+        "company_name": "CTCP Cao su Sao Vàng",
+        "stock_code": "SRC"
+    },
+    {
+        "id_group": 21,
+        "company_name": "Công ty CP cao su Thống Nhất",
+        "stock_code": "TNC"
+    },
+    {
+        "id_group": 21,
+        "company_name": "Công ty CP Cao su Tây Ninh",
+        "stock_code": "TRC"
+    },
+    {
+        "id_group": 21,
+        "company_name": "Công ty CP cao su Quảng Nam",
+        "stock_code": "VHG"
+    },
+    {
+        "id_group": 21,
+        "company_name": "Công ty CP Phát triển đô thị và khu công nghiệp cao su Việt Nam",
+        "stock_code": "VRG"
+    }
+]

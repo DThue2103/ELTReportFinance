@@ -1,0 +1,17 @@
+[
+    {
+        "id_group": 1,
+        "company_name": "ABBank (Ngân hàng TMCP An Bình)",
+        "stock_code": "ABB"
+    },
+    {
+        "id_group": 1,
+        "company_name": "ACB (Ngân hàng Á Châu)",
+        "stock_code": "ACB"
+    },
+    {
+        "id_group": 1,
+        "company_name": "HD bank (Ngân hàng TMCP Phát triển Thành phố Hồ Chí Minh)",
+        "stock_code": "HDB"
+    }
+]

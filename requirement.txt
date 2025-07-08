@@ -1,0 +1,8 @@
+requests
+pandas
+selenium
+bs4
+webdriver-manager
+unidecode
+pymongo
+minio
