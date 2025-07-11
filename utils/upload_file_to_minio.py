@@ -16,7 +16,7 @@ client = Minio(
 minio_url = os.getenv("URL")
 # Tên bucket
 bucket_name = "financial-reports"
-records_finance_path = "/ELTReportFinance1/data/record_finance_report.json"
+records_finance_path = "/home/huedt/Documents/PythonProjects/ELTReportFinance/data/record_finance_report.json"
 with open (records_finance_path, "r", encoding="utf-8") as f:
     records_finance = json.load(f)
 
@@ -49,7 +49,7 @@ for item in records_finance:
     else:
         print(f"------Path is not valid or not exist-----")
 
-root_path = r"/ELTReportFinance1/data"
+root_path = r"/home/huedt/Documents/PythonProjects/ELTReportFinance/data"
 result_name = "uploaded_record_finance_report.json"
 result_path = os.path.join(root_path, result_name)
 with open (result_path, "w", encoding="utf-8") as f:

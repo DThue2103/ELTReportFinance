@@ -25,6 +25,11 @@ class DateTimeEncoder(json.JSONEncoder):
             return obj.isoformat()
         return super().default(obj)
 
+def truncate_to_milliseconds(dt: datetime) -> datetime:
+    now = datetime.utcnow()
+    return now.strftime("%Y-%m-%d %H:%M:%S.%f")[:-3]  # bỏ 3 chữ số micro giây
+
+
 def get_report_pdf_link(reportCode : str) -> List:
     """
     Hàm lấy link của các bctc để crawl
@@ -202,8 +207,8 @@ def crawlReport(folder_path : str, json_path: str) -> DataFrame:
                     "extracted": False,
                     "transformed": False
                 },
-                "created_at": datetime.utcnow(),
-                "updated_at": None
+                "created_at": truncate_to_milliseconds(datetime.utcnow()),
+                "updated_at": truncate_to_milliseconds(datetime.utcnow())
             })
         # dict_field["id_group"] = row.iloc[0]
         # dict_field["company_name"] = row.iloc[1]
@@ -216,10 +221,7 @@ def crawlReport(folder_path : str, json_path: str) -> DataFrame:
             year = report["year"]
             file_format = report["file_format"]
             print(link_pdf)
-            # dict_field["year"] = year
-            # dict_field["quarter"] = quarter
-            # dict_field["report_type"] = report_type
-            # dict_field["file_format"] = file_format
+
             dict_field = {
                 "id_group": item["id_group"],
                 "company_name": item["company_name"],
@@ -238,8 +240,8 @@ def crawlReport(folder_path : str, json_path: str) -> DataFrame:
                     "extracted": False,
                     "transformed": False
                 },
-                "created_at": datetime.utcnow().isoformat(),
-                "updated_at": None
+                "created_at": truncate_to_milliseconds(datetime.utcnow()),
+                "updated_at": truncate_to_milliseconds(datetime.utcnow())
             }
             if link_pdf:
                 download = download_report(reportCode, report_type, quarter, year, file_format, link_pdf, pdf_path)
@@ -254,7 +256,7 @@ def crawlReport(folder_path : str, json_path: str) -> DataFrame:
     # result_df = pd.DataFrame(records)
     # print(result_df)
     # print(result_df.count())
-    root_path = r"/ELTReportFinance1/data"
+    root_path = r"/home/huedt/Documents/PythonProjects/ELTReportFinance/data"
     result_name = "record_finance_report.json"
     result_path = os.path.join(root_path, result_name)
     with open(result_path, "w", encoding="utf-8") as f:
@@ -264,8 +266,8 @@ def crawlReport(folder_path : str, json_path: str) -> DataFrame:
     return records
 
 if __name__ == '__main__':
-    folder_path = r"/ELTReportFinance1"
-    json_path = r"/ELTReportFinance1/data/stock_info.json"
+    folder_path = r"/home/huedt/Documents/PythonProjects/ELTReportFinance"
+    json_path = r"/home/huedt/Documents/PythonProjects/ELTReportFinance/data/test.json"
     crawlReport(folder_path, json_path)
 
 

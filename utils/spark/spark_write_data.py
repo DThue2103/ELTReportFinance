@@ -1,8 +1,9 @@
 from typing import Dict
 from pyspark.sql import DataFrame, SparkSession
-from pyspark.sql.functions import col, lit
+from pyspark.sql.functions import col, lit, to_timestamp, when, date_trunc, date_format
+from pyspark.sql.types import *
 
-from ELTReportFinance1.databases.mongodb_connect import MongoDBConnect
+from ELTReportFinance.databases.mongodb_connect import MongoDBConnect
 
 
 class SparkWriteDatabase:
@@ -23,6 +24,27 @@ class SparkWriteDatabase:
 
     def spark_validate_mongodb(self, df_write : DataFrame, uri : str, database: str, collection: str):
         try:
+            schema = StructType([
+                StructField("id_group", IntegerType(), True),
+                StructField("company_name", StringType(), True),
+                StructField("stock_code", StringType(), True),
+                StructField("year", IntegerType(), True),
+                StructField("quarter", IntegerType(), True),
+                StructField("report_type", StringType(), True),
+                StructField("file_format", StringType(), True),
+                StructField("file_name", StringType(), True),
+                StructField("source_url", StringType(), True),
+                StructField("local_path", StringType(), True),
+                StructField("minio_path", StringType(), True),
+                StructField("status", StructType([
+                    StructField("download", BooleanType(), True),
+                    StructField("uploaded", BooleanType(), True),
+                    StructField("extracted", BooleanType(), True),
+                    StructField("transformed", BooleanType(), True)
+                ]), True),
+                StructField("created_at", TimestampType(), True),
+                StructField("updated_at", TimestampType(), True)
+            ])
             df_read = self.spark.read \
                 .format("mongo") \
                 .option("uri", uri) \
@@ -32,7 +54,14 @@ class SparkWriteDatabase:
                 .load()
 
             # df_read.show()
-            df_read = df_read.withColumn("updated_at", lit(None).cast("timestamp")) \
+            # df_with_timestamp = df_read.withColumn(
+            #     "updated_at",
+            #     when(col("updated_at").isNull() | (col("updated_at") == "null"), lit(None).cast(TimestampType()))
+            #     .when(col("updated_at").isNotNull() & (col("updated_at") != "null"),
+            #           to_timestamp(col("updated_at"), "yyyy-MM-dd HH:mm:ss"))
+            # )
+
+            df_with_timestamp = df_read \
                 .select(
                 col("id_group"),
                 col("company_name"),
@@ -50,13 +79,15 @@ class SparkWriteDatabase:
                 col("status_extracted"),
                 col("status_transformed"),
                 # col("status"),
+                # date_format("created_at", "yyyy-MM-dd HH:mm:ss.SSS").alias("created_at"),
+                # date_format("updated_at", "yyyy-MM-dd HH:mm:ss.SSS").alias("updated_at"),
                 col("created_at"),
                 col("updated_at"),
                 col("spark_temp")
                 )
-            df_read.show()
-            df_read.printSchema()
-            df_temp = df_write.exceptAll(df_read)
+            df_with_timestamp.show(truncate=False)
+            df_with_timestamp.printSchema()
+            df_temp = df_write.exceptAll(df_with_timestamp)
             print(df_temp.count())
             if df_temp.count() != 0:
                 df_temp.write \

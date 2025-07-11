@@ -2,9 +2,9 @@ import pandas as pd
 from pyspark.sql.functions import col, from_json, lit
 from pyspark.sql.types import *
 
-from ELTReportFinance1.config.spark_config import SparkConnect
-from ELTReportFinance1.config.database_config import get_spark_config
-from ELTReportFinance1.utils.spark.spark_write_data import SparkWriteDatabase
+from ELTReportFinance.config.spark_config import SparkConnect
+from ELTReportFinance.config.database_config import get_spark_config
+from ELTReportFinance.utils.spark.spark_write_data import SparkWriteDatabase
 
 def main():
     jars = [
@@ -43,7 +43,7 @@ def main():
         StructField("updated_at", TimestampType(), True)
     ])
 
-    df = spark_connect.spark.read.option("multiLine", True) .schema(schema).json(r"/home/huedt/Documents/PythonProjects/ELTReportFinance1/data/uploaded_record_finance_report.json")
+    df = spark_connect.spark.read.option("multiLine", True) .schema(schema).json(r"/home/huedt/Documents/PythonProjects/ELTReportFinance/data/uploaded_record_finance_report.json")
 
     df_write_table = df.withColumn("spark_temp", lit("spark_write")) \
         .select(
@@ -67,12 +67,12 @@ def main():
         col("updated_at"),
         col("spark_temp")
     )
-    # df_write_table.show()
+    df_write_table.show(truncate=False)
     df_write_table.printSchema()
     spark_config = get_spark_config()
     # print(spark_config)
     df_write = SparkWriteDatabase(spark_connect.spark, spark_config)
-    df_write.spark_write_mongodb(df_write_table, spark_config["mongodb"]["uri"], spark_config["mongodb"]["database"], spark_config["mongodb"]["collection"])
+    # df_write.spark_write_mongodb(df_write_table, spark_config["mongodb"]["uri"], spark_config["mongodb"]["database"], spark_config["mongodb"]["collection"])
     df_write.spark_validate_mongodb(df_write_table, spark_config["mongodb"]["uri"], spark_config["mongodb"]["database"], spark_config["mongodb"]["collection"])
 
 if __name__ == '__main__':

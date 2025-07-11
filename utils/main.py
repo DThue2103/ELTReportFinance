@@ -1,6 +1,6 @@
-from ELTReportFinance1.config.database_config import get_database_config
-from ELTReportFinance1.databases.mongodb_connect import MongoDBConnect
-from ELTReportFinance1.databases.schema_manager import create_mongodb_schema, validate_mongodb_schema
+from ELTReportFinance.config.database_config import get_database_config
+from ELTReportFinance.databases.mongodb_connect import MongoDBConnect
+from ELTReportFinance.databases.schema_manager import create_mongodb_schema, validate_mongodb_schema
 def main(config):
     with MongoDBConnect(config["mongodb"].uri, config["mongodb"].database) as mongodb_client:
         create_mongodb_schema(mongodb_client.connect())

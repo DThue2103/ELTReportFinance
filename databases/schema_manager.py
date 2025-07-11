@@ -1,4 +1,4 @@
-from ELTReportFinance1.config.database_config import get_database_config
+from ELTReportFinance.config.database_config import get_database_config
 
 def create_mongodb_schema(db):
     collection = get_database_config()["mongodb"].collection
